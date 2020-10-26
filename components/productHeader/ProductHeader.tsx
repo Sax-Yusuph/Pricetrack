@@ -89,61 +89,97 @@ const StyledSkeleton = withStyles({
 interface showTabsProps {
    options: {
       tabIndex: number
+      setTabIndex: React.Dispatch<React.SetStateAction<number>>
       classes: any
-      chartData?: {}
-      chartOptions?: {}
+      chartData: {}
+      chartOptions: {}
+   }
+}
+
+interface showTabs2Props {
+   options: {
+      tabIndex2: number
+      setTabIndex2: React.Dispatch<React.SetStateAction<number>>
+      classes: any
    }
 }
 
 const ShowTabs = ({ options }: showTabsProps) => {
-   const { tabIndex, classes, chartData, chartOptions } = options
-
-   if (tabIndex === 0) {
-      return (
-         <Paper elevation={0} className={classes.cardContainer}>
-            <Card className={classes.imgCard}>
-               <CardMedia
-                  component='img'
-                  alt='demo product'
-                  height='200'
-                  image='/img/1.jpg'
-                  style={{ objectFit: 'contain' }}
-               />
-            </Card>
-         </Paper>
-      )
-   } else if (tabIndex === 1) {
-      return (
-         <div>
-            <Line
-               // height={100}
-               // width={500}
-               data={chartData}
-               options={chartOptions}
-            />
-         </div>
-      )
-   }
+   const { tabIndex, setTabIndex, classes, chartData, chartOptions } = options
    return (
-      <StyledSkeleton variant='rect' height={200} />
-      // <Box minHeight={200} bgcolor='#F4F7FA' borderRadius={8} />
+      <>
+         {tabIndex === 0 ? (
+            <Paper elevation={0} className={classes.cardContainer}>
+               <Card className={classes.imgCard}>
+                  <CardMedia
+                     component='img'
+                     alt='demo product'
+                     height='200'
+                     image='/img/1.jpg'
+                     style={{ objectFit: 'contain' }}
+                  />
+               </Card>
+            </Paper>
+         ) : tabIndex === 1 ? (
+            <div>
+               <Line
+                  // height={100}
+                  // width={500}
+                  data={chartData}
+                  options={chartOptions}
+               />
+            </div>
+         ) : (
+            <StyledSkeleton variant='rect' height={200} />
+         )}
+
+         {/* Tab control  buttons */}
+         <div style={{ position: 'relative', marginTop: 40 }}>
+            <div
+               style={{
+                  position: 'absolute',
+                  bottom: '-15px',
+                  left: '50%',
+                  transform: 'translateX(-50%)',
+               }}
+            >
+               <NavTabs tabIndex={tabIndex} setTabIndex={setTabIndex} />
+            </div>
+         </div>
+         {/* // <Box minHeight={200} bgcolor='#F4F7FA' borderRadius={8} /> */}
+      </>
    )
 }
 
-const ShowTabsSkeleton = ({ options }: showTabsProps) => {
-   const { tabIndex, classes } = options
+const ShowTabsSkeleton = ({ options }: showTabs2Props) => {
+   const { tabIndex2, classes, setTabIndex2 } = options
 
-   if (tabIndex === 0) {
-      return (
-         <Paper elevation={0} className={classes.cardContainer}>
-            <StyledSkeleton variant='rect' height={200} width='100%' />
-         </Paper>
-      )
-   } else if (tabIndex === 1) {
-      return <StyledSkeleton variant='rect' height={200} width='100%' />
-   }
    return (
-      <StyledSkeleton variant='rect' height={200} />
+      <>
+         {tabIndex2 === 0 ? (
+            <Paper elevation={0} className={classes.cardContainer}>
+               <StyledSkeleton variant='rect' height={200} width='100%' />
+            </Paper>
+         ) : tabIndex2 === 1 ? (
+            <StyledSkeleton variant='rect' height={200} width='100%' />
+         ) : (
+            <StyledSkeleton variant='rect' height={200} />
+         )}
+
+         {/* Tab control  buttons */}
+         <div style={{ position: 'relative', marginTop: 40 }}>
+            <div
+               style={{
+                  position: 'absolute',
+                  bottom: '-15px',
+                  left: '50%',
+                  transform: 'translateX(-50%)',
+               }}
+            >
+               <NavTabs tabIndex={tabIndex2} setTabIndex={setTabIndex2} />
+            </div>
+         </div>
+      </>
       // <Box minHeight={200} bgcolor='#F4F7FA' borderRadius={8} />
    )
 }
@@ -157,6 +193,7 @@ export default function ProductHeader({ data, isLoading }: DataProps) {
    })
    const { chartData, chartOptions }: any = useChart(PriceData)
    const [tabIndex, setTabIndex] = useState(0)
+   const [tabIndex2, setTabIndex2] = useState(0)
 
    return (
       <Paper
@@ -210,26 +247,20 @@ export default function ProductHeader({ data, isLoading }: DataProps) {
 
             <Grid item md={6}>
                {isLoading ? (
-                  <ShowTabsSkeleton options={{ tabIndex, classes }} />
+                  <ShowTabsSkeleton
+                     options={{ tabIndex2, setTabIndex2, classes }}
+                  />
                ) : (
                   <ShowTabs
-                     options={{ tabIndex, classes, chartData, chartOptions }}
+                     options={{
+                        tabIndex,
+                        setTabIndex,
+                        classes,
+                        chartData,
+                        chartOptions,
+                     }}
                   />
                )}
-
-               {/* Tab control  buttons */}
-               <div style={{ position: 'relative', marginTop: 40 }}>
-                  <div
-                     style={{
-                        position: 'absolute',
-                        bottom: '-15px',
-                        left: '50%',
-                        transform: 'translateX(-50%)',
-                     }}
-                  >
-                     <NavTabs tabIndex={tabIndex} setTabIndex={setTabIndex} />
-                  </div>
-               </div>
             </Grid>
          </Grid>
       </Paper>

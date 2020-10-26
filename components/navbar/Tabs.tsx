@@ -4,7 +4,6 @@ import Tab from '@material-ui/core/Tab'
 import ImageIcon from '@material-ui/icons/Image'
 import AssessmentIcon from '@material-ui/icons/Assessment'
 import NotificationsActiveIcon from '@material-ui/icons/NotificationsActive'
-import { useState } from 'react'
 
 const useTabStyles = makeStyles((theme: Theme) =>
    createStyles({
@@ -81,7 +80,7 @@ const useIconStyles = makeStyles((theme: Theme) =>
 
 interface Props {
    tabIndex: number
-   setTabIndex: (a: number) => any
+   setTabIndex: React.Dispatch<React.SetStateAction<number>>
 }
 const NavTabs = ({ tabIndex, setTabIndex }: Props) => {
    const tabsStyles = useTabStyles()
@@ -91,7 +90,7 @@ const NavTabs = ({ tabIndex, setTabIndex }: Props) => {
       <Tabs
          classes={tabsStyles}
          value={tabIndex}
-         onChange={(e, index) => setTabIndex(index)}
+         onChange={(_, index: number) => setTabIndex(index)}
       >
          <Tab
             classes={tabItemStyles}
