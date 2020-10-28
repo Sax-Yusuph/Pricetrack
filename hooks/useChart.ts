@@ -61,7 +61,10 @@ const useChart = (priceData: PriceProps[]) => {
          },
       }
    } else {
-      return null
+      return {
+         chartData: null,
+         chartOptions: null,
+      }
    }
 }
 

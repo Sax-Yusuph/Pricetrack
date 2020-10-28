@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { useRouter } from 'next/router'
 import { makeStyles, Theme, createStyles } from '@material-ui/core/styles'
 import Paper from '@material-ui/core/Paper'
 import InputBase from '@material-ui/core/InputBase'
@@ -8,7 +9,6 @@ import MenuIcon from '@material-ui/icons/Menu'
 import SearchIcon from '@material-ui/icons/Search'
 import MultipleSelect from './MultiSelect'
 import { defaultStores } from '../../utils/defaultStores'
-import { useRouter } from 'next/router'
 
 const useStyles = makeStyles((theme: Theme) =>
    createStyles({

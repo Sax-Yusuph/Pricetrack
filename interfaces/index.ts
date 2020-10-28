@@ -3,6 +3,8 @@
 // example, to import the interface below do:
 //
 
+import { responseInterface } from 'swr'
+
 // import User from 'path/to/interfaces';
 export type availableStores =
    | 'Konga'
@@ -21,17 +23,29 @@ export interface UserRequest {
    item: string
    urls?: string[]
 }
+export interface IData {
+   id: string
+   name: string
+   items: Product[]
+}
 
 export interface DataProps {
-   data: {
+   data?: IData
+   isLoading: boolean
+   // this is not neccessary. its just for testing purposes.
+   params?: any
+}
+
+export interface SlugProps extends responseInterface<any, {}> {
+   data?: {
       id: string
       name: string
       items: Product[]
       description?: string
    }
-   isLoading: boolean
+   error?: {}
    // this is not neccessary. its just for testing purposes.
-   params?: any
+   // params?: any
 }
 
 export interface Product {

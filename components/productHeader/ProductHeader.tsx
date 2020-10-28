@@ -188,7 +188,7 @@ const ShowTabsSkeleton = ({ options }: showTabs2Props) => {
 export default function ProductHeader({ data, isLoading }: DataProps) {
    const classes = useStyles()
    // refine data object to get PriceProps
-   const PriceData = data?.items.map((item) => {
+   const PriceData = data?.items?.map((item) => {
       return { store: item.websiteName, price: item.actualPrice.value }
    })
    const { chartData, chartOptions }: any = useChart(PriceData)

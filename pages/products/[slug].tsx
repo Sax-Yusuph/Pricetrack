@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 // import { v4 as uuidv4 } from 'uuid'
+import useSWR, { responseInterface } from 'swr'
 import Container from '@material-ui/core/Container'
 import Layout from '../../components/Layout'
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles'
@@ -9,9 +10,10 @@ import PriceTemplate from '../../components/productsTemplate/PriceTemplate'
 import Grid from '@material-ui/core/Grid'
 import { Filter } from '../../components/filter/Filter'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { Product, DataProps } from '../../interfaces'
+import { Product, DataProps, IData } from '../../interfaces'
 import { useRouter } from 'next/router'
 import PriceSkeleton from '../../components/skeleton/PriceSkeleton'
+import isEmpty from '../../utils/isObject'
 
 const useStyles = makeStyles((theme: Theme) =>
    createStyles({
@@ -41,22 +43,26 @@ const useStyles = makeStyles((theme: Theme) =>
       },
    })
 )
+const fetcher = (url: string) => fetch(url).then((r) => r.json())
 
-export default function ProductPage({ data, params }: DataProps) {
+export default function ProductPage({ res }: any) {
    const [isLoading, setLoading] = useState(true)
-   const router = useRouter()
-   console.log(router.query)
+   const url = 'http://localhost:5000/products?name=infinix%20note%208'
+
+   const { data, error }: responseInterface<IData, any> = useSWR(url, fetcher, {
+      initialData: res,
+   })
+   // const router = useRouter()
+   // console.log(router.query)
+   const classes = useStyles()
 
    useEffect(() => {
-      if (!router.isFallback) {
+      if (!isEmpty(data)) {
          setLoading(false)
       } else {
          setLoading(true)
       }
-   }, [router.isFallback])
-
-   console.log({ loaded: params })
-   const classes = useStyles()
+   }, [data])
 
    return (
       <Container maxWidth='xl' className={classes.root}>
@@ -97,12 +103,6 @@ export default function ProductPage({ data, params }: DataProps) {
    )
 }
 
-interface IData {
-   id: string
-   name: string
-   items: Product[]
-}
-
 export const getStaticPaths: GetStaticPaths = async () => {
    // get ids of product from the database.
    const res = await fetch(
@@ -129,5 +129,29 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
    )
    const data: IData[] = await res.json()
    const results = data[0]
-   return { props: { params, data: results } }
+   return { props: { params, res: results } }
 }
+// export const getServerSideProps: GetServerSideProps = async ({ query }) => {
+//    if (!query) console.log({ noquery: query })
+//    console.log({ query })
+//    const res = await fetch(
+//       'http://localhost:5000/products?name=infinix%20note%208'
+//    )
+//    const data: IData[] = await res.json()
+//    const results = data[0]
+//    return { props: { data: results } }
+// }
+
+// const { data, error } = useSWR('/api/user', fetcher)
+// const fetcher = url => fetch(url).then(r => r.json())
+// export async function getStaticProps() {
+//    // `getStaticProps` is invoked on the server-side,
+//    // so this `fetcher` function will be executed on the server-side.
+//    const posts = await fetcher('/api/posts')
+//    return { props: { posts } }
+//  }
+//  function Props (props) {
+//    // Here the `fetcher` function will be executed on the client-side.
+//    const { data } = useSWR('/api/posts', fetcher, { initialData: props.posts })
+//    // ...
+//  }
