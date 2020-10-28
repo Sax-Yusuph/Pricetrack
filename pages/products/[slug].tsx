@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from 'react'
 // import { v4 as uuidv4 } from 'uuid'
 import Container from '@material-ui/core/Container'
-import Layout from '../../../components/Layout'
+import Layout from '../../components/Layout'
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles'
 import Box from '@material-ui/core/Box'
-import ProductHeader from '../../../components/productHeader/ProductHeader'
-import PriceTemplate from '../../../components/productsTemplate/PriceTemplate'
+import ProductHeader from '../../components/productHeader/ProductHeader'
+import PriceTemplate from '../../components/productsTemplate/PriceTemplate'
 import Grid from '@material-ui/core/Grid'
-import { Filter } from '../../../components/filter/Filter'
+import { Filter } from '../../components/filter/Filter'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { Product, DataProps } from '../../../interfaces'
+import { Product, DataProps } from '../../interfaces'
 import { useRouter } from 'next/router'
-import PriceSkeleton from '../../../components/skeleton/PriceSkeleton'
+import PriceSkeleton from '../../components/skeleton/PriceSkeleton'
 
 const useStyles = makeStyles((theme: Theme) =>
    createStyles({
@@ -53,7 +53,7 @@ export default function ProductPage({ data, params }: DataProps) {
       } else {
          setLoading(true)
       }
-   }, [isLoading, router.isFallback, setLoading])
+   }, [router.isFallback])
 
    console.log({ loaded: params })
    const classes = useStyles()
@@ -110,7 +110,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
    )
    const data: IData[] = await res.json()
    const productIds = data?.map((product) => {
-      return { params: { slug: product.id.toString(), item: product.name } }
+      return { params: { slug: product.id.toString() } }
    })
 
    return {

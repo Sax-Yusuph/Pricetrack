@@ -31,6 +31,11 @@ const theme = createMuiTheme({
             boxShadow: '0 9px 25px 0 rgba(132, 128, 177, 0.28)',
          },
       },
+      MuiInputBase: {
+         root: {
+            width: '100%',
+         },
+      },
    },
 })
 

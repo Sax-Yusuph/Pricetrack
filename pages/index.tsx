@@ -1,9 +1,6 @@
 import React from 'react'
 import Container from '@material-ui/core/Container'
 import Typography from '@material-ui/core/Typography'
-import ProTip from '../components/ProTip'
-import Link from '../components/Link'
-import Copyright from '../components/Copyright'
 import MainSearch from '../components/search/MainSeacrhBar'
 import Layout from '../components/Layout'
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles'
@@ -21,7 +18,7 @@ const useStyles = makeStyles((theme: Theme) =>
          paddingRight: 20,
          minHeight: '50vh',
          width: '100%',
-         background: `url('./public/img/left-circles.svg') no-repeat left bottom, linear-gradient(to left bottom, #48bb78, #40c476, #37ce74, #2bd772, #1ce06e)`,
+         // background: `url('./public/img/left-circles.svg') no-repeat left bottom, linear-gradient(to left bottom, #48bb78, #40c476, #37ce74, #2bd772, #1ce06e)`,
       },
       root: {
          height: '100vh',
