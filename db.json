@@ -1,289 +1,2110 @@
 {
-   "products": [
-      {
-         "id": "96",
-         "name": "infinix note 8",
-         "items": [
-            {
-               "id": "290",
-               "websiteName": "jumia",
-               "productName": "Scanfrost 6.8kg Twin Tub Semi-Automatic Washing Machine - SFSANTTD6.- White",
-               "productLink": "https://www.jumia.com.ng//scanfrost-6.8kg-twin-tub-semi-automatic-washing-machine-sfsanttd6.-white-21153934.html",
-               "productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/935112/1.jpg?0510",
-               "productStore": "not provided",
-               "productAvailability": "Official Store",
-               "officialBadge": "not provided",
-               "price": "₦ 47,990",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "171",
-               "websiteName": "jumia",
-               "productName": "Nexus 4.5kg Single Tub Washing Machine (NX-WM-4SASR)",
-               "productLink": "https://www.jumia.com.ng//4.5kg-single-tub-wasing-machine-nexus-mpg232354.html",
-               "productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/939202/1.jpg?5906",
-               "productStore": "not provided",
-               "productAvailability": "Official Store",
-               "officialBadge": "not provided",
-               "price": "₦ 29,526",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "442",
-               "websiteName": "jumia",
-               "productName": "Binatone Semi-Automatic 7kg Washing Machine BWM-070B- White",
-               "productLink": "https://www.jumia.com.ng//semi-automatic-7kg-washing-machine-bwm-070b-white-binatone-mpg1239127.html",
-               "productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/221852/1.jpg?4026",
-               "productStore": "not provided",
-               "productAvailability": "Official Store",
-               "officialBadge": "not provided",
-               "price": "₦ 48,490",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "573",
-               "websiteName": "jumia",
-               "productName": "Century 6kg Automatic Washing Machine CW8523-A",
-               "productLink": "https://www.jumia.com.ng//century-6kg-automatic-washing-machine-cw8523-a-45127438.html",
-               "productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/472154/1.jpg?8832",
-               "productStore": "not provided",
-               "productAvailability": "Official Store",
-               "officialBadge": "not provided",
-               "price": "₦ 60,190",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "854",
-               "websiteName": "kara",
-               "productName": "Polystar Washing Machine 4.5Kg Single Tube",
-               "productLink": "https://www.kara.com.ng/polystar-washing-machine-4-5kg-single-tube",
-               "productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/p/o/pol.jpg",
-               "price": "₦29,700.00",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "925",
-               "websiteName": "kara",
-               "productName": "Century 8kg Top Loader Twin Tub Washing Machine - CW-8522-A",
-               "productLink": "https://www.kara.com.ng/century-8kg-top-loader-twin-tub-washing-machine-cw-8522-a",
-               "productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/c/w/cw-8522-a1.png",
-               "price": "₦29,700.00",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "126",
-               "websiteName": "kara",
-               "productName": "Century Century 10.2kg Twin Tub Washing Machine ",
-               "productLink": "https://www.kara.com.ng/century-century-10-2kg-twin-tub-washing-machine",
-               "productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/2/_/2_4.jpg",
-               "price": "₦73,370.00",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "637",
-               "websiteName": "kara",
-               "productName": "Bosch Washing Machine Front Load 6KG - WAB2026SKE",
-               "productLink": "https://www.kara.com.ng/bosch-washing-machine-front-load-6kg-wab2026ske",
-               "productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/b/o/bosch_washing_machine_front_load_6kg_-_wab2026ske.jpg",
-               "price": "₦195,910.00",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "198",
-               "websiteName": "kara",
-               "productName": "Century 6KG Top-Load Washing Machine",
-               "productLink": "https://www.kara.com.ng/century-6kg-top-load-washing-machine",
-               "productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_1_3.jpg",
-               "price": "₦44,550.00",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "879",
-               "websiteName": "ebay",
-               "productName": "GE Washing Machine Model WCVH6800J1WW Top Panel WH44X10193",
-               "productLink": "https://www.ebay.com/itm/GE-Washing-Machine-Model-WCVH6800J1WW-Top-Panel-WH44X10193/322947967510?epid=11011676161&_trkparms=ispr%3D1&hash=item4b3132ea16:g:W3cAAOSwIJlaObUE&enc=AQAFAAACcBaobrjLl8XobRIiIML1V4Imu%2Fn%2BzU5L90Z278x5ickk5v8gVt3hEWLVg%2F253w6XCdr%2BWHJ5lto%2BkNS0j4r9lfjuqaFAvOukcBBrR6W7fP6AgumKVzNKq87s3N8Q7eEA2XpDm6iphIqXkHrp4b%2BR8ENaTMBtqQPz9uGN1iGbhjWmf6CVBOxCQtfrRVgMqJqhlAD7yAxkUkzcsw6xCGKIFBvSAhWNlGayOBOzeVqK8qTDSbxdQzW9kFWbVQdgXuqHF8sSkJUAB8a8%2FIrUbWEJ7pRV4%2BaicslxNS20EhF7f7y5hbXQ26Q0Wl8WBeov2L%2BgKIo6X2eu1hxj5ivWsI4%2B9f9%2F%2By%2F4c7%2FXzYI6tafthnmTYSmX9Q8azYrutQfIX6Vxio%2FvVCjBp0Rf7%2F%2FkBoF2O83eqan6IJstTd%2F2AMcJIkuvsNyhRulaWG%2B%2Byppw1nKyyzl9ys3vq%2BJkPlYPAa4qMo1FMFkgZ5vCVIAvN8in42XXq2nGpu6smlVQ0uISVhsLWPmC%2F1SygxbkFe%2B7D4uVTdaa137c9OlDA2xnRrLlgPN5d7TEY2ctq604B8EpG3rYQ3zaE4Wz2mCg%2Fw0fafAzeFoFq9%2BAT1GPngHQfonKWvIsrFhVFDQ744kdGV8pAM9BDdjFYCDIxWV7d%2BYocrnAzkq1BWM2rqS3joujfFy%2FnyV%2FVJB0h7bfyTt1uvi184g3xcvzmgV00ls0AC6kPHd%2Bq4oO86T0Z%2BK3rP5lB20BEShenDlB%2B2cD7e%2FJugr9VIbJXgicsLr1T4jZivYrwIXLIcyadEKvG9qYJ6jhS9LgWgzPRRFcjThdUJQYE5bSIj0t7g%3D%3D&checksum=3229479675106bddd584f358428a87b6ce154821c9ab",
-               "productImage": "https://i.ebayimg.com/thumbs/images/g/W3cAAOSwIJlaObUE/s-l225.jpg",
-               "productAvailability": "Pre-Owned",
-               "shipping": "Shipping not specified || From United States",
-               "price": "$160.00",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "6710",
-               "websiteName": "ebay",
-               "productName": "Daewoo DWD-03MCWR Appliances Wall Mounted Mini Drum Washing Machine 220_UR",
-               "productLink": "https://www.ebay.com/itm/Daewoo-DWD-03MCWR-Appliances-Wall-Mounted-Mini-Drum-Washing-Machine-220-UR/254461276438?_trkparms=ispr%3D1&hash=item3b3f12f116:g:S9sAAOSwaZdeACOs&enc=AQAFAAACcBaobrjLl8XobRIiIML1V4Imu%2Fn%2BzU5L90Z278x5ickkrDx%2B2NLp21dg6hHbHAkGMQ0QU5VOBiTvIhbo6BH1bAqzE6h56qJuTLAo3Ee5KnbLFuia8UXc2ZDUZh%2Ff3jtsn126%2FmDWMyK18hX6XG%2FcseKqPe7FpbCFbbjHdbHb%2BXfKara4EffJw1IAmet1WDA%2Bg0otRWbKMO4%2FSgoCnnKmm7LNUI10xz2gheQIrjsh5pa2whHXOn2lR%2B6Bg5vBZi0tml%2BiNJBDb%2BFrT6SdAf3cYVbyzekC8EPgvY9%2FjFAapD1hLaOcX4OTrdwnkPUGACRzld5I%2F5dQIu%2FkLpuEGzUYk68bGXtoe7dsJmaZhylm3g0rWuUjWIrKt1NU2jjZ0yxeStfU%2BLiWJXujAP%2B4M%2FweHmPEa%2BLMZyr9pGjABzI7lizkRwWfNoA5wNymE1bEqivPEBIoyJMAgvo5q7yYsJms3VVVxtJxDlxwoGHZ0lS1lqZZqn3NJHmJk1gStLl74DjX7hBF4jzrVt4wcMxj9h%2F7AR9ddVIPKjhKfTM2mwQoQojefnKYwDSREj3mOm0m4pdBIzS%2F7XfgKUjatN8KM0kSXpByN2umjiAe2te8ghQ9bgigW3cyZhj6C7ZPdEQXBUFyBDMt17kn5HHoaeyErDjNz%2BAYK76C4X9uVGhUEq4T4Zk3%2FU2qGdCsWBrBNV2FufhkVuuZ9L3BaZFPlMenvJ%2F2DUPzYUA3kzQGLBzDszfCIgdaBb2akMj7VIDg5BU46OZiAZKJfcO4PB%2BKngPQFRatFZx9fL4DFp6zgNEWWn4gB7FjKjxAlBa4diurfEwNS6qWIw%3D%3D&checksum=2544612764386bddd584f358428a87b6ce154821c9ab",
-               "productImage": "https://i.ebayimg.com/thumbs/images/g/S9sAAOSwaZdeACOs/s-l225.jpg",
-               "productAvailability": "Brand New",
-               "shipping": "Free International Shipping || Top Rated SellerFrom Korea, South",
-               "price": "$556.79",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "611",
-               "websiteName": "ebay",
-               "productName": "ECTOOL PRO WASHING MACHINE INNER TUB REMOVAL TOOL BASKET PULLER WHIRLPOOL MAYTAG",
-               "productLink": "https://www.ebay.com/itm/ECTOOL-PRO-WASHING-MACHINE-INNER-TUB-REMOVAL-TOOL-BASKET-PULLER-WHIRLPOOL-MAYTAG/254210218588?_trkparms=ispr%3D1&hash=item3b301c1a5c:g:ktgAAOSwixRcwJGE&enc=AQAFAAACcBaobrjLl8XobRIiIML1V4Imu%2Fn%2BzU5L90Z278x5ickkrDx%2B2NLp21dg6hHbHAkGMUJmVFjRv5Ol6QAe19OhjR9ZDgdnPX2bg4wisP%2F%2FbMVSTR4oERHanIuq6Vmj9DHUGgrWMJHakn5W9Uw%2BI61NhR4l6CrBinq4A4DgUmB%2F5yhMSxBNKTjZevY%2Bu45%2BDTRLSi5z7y24Rb1J1g7by8912OZ6d%2F9AmP4O%2FbEbsR9WzIt%2B4bKH4REJ3p5y0wWTcJSIDCGDdzhR8kjZNYJB3%2FuqRhs1zfFPw5AaLdr3B6TIDUnTXujDJtAi2uDBHyBuCdbxbg86rzhyyZWhHwKVHOdPdLzxtIXYF9qAuB%2Fs%2BseROIcWKxbD4gtnfnOxt7S3ZnLzxdr2cT5X%2FaX1L11HyljIIxZmeiDzNi7aCATYp5dM2L3AIeEJ3XBGoQCpHx6On1QxwSFmQS4fYkEfv%2Bin4Rj3apR%2BGPWsf8qmz2CZwLWJZ5RpqTR7%2FCPHLK40df5bXGWlYaxItDLnW95NEfaBiAL%2F8EpjxpWqFQwo1NXE2RqB2aa3bho3zy0yF1N1j7mJa7xOmcBgaQ%2FagkqPA%2BoR8K1QNdbHUWnXAz0SylQWvi83NdtVcwkAm0y%2FZQbQEEIxBjOZFNGzKKoTvce12DeJn7UQVZx2isiPJyXMLcx8Tfrko1t3B99bKwb5dHMd5DPTIjFuLHNwgChG8lEZFy%2Bdk7k%2BH58%2FL5Flicn6rz2Hf7vfbOqKyJN2xKG5KLfb2%2FMb5L6xofLl9%2FW%2F%2FAnsMX243wfOWnyduFOMjNQ1LRMcn9i3Ktiy6zNyHXgEXJkOkC80bl0GWw%3D%3D&checksum=2542102185886bddd584f358428a87b6ce154821c9ab",
-               "productImage": "https://i.ebayimg.com/thumbs/images/g/ktgAAOSwixRcwJGE/s-l225.jpg",
-               "productAvailability": "Brand New",
-               "shipping": "+$40.50 shipping || From United States",
-               "price": "$139.00",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "6512",
-               "websiteName": "ebay",
-               "productName": "PORTABLE COMPACT TWIN MINI WASHING MACHINE 5.2kg SPIN DRYER with DRAIN PUMP",
-               "productLink": "https://www.ebay.com/itm/PORTABLE-COMPACT-TWIN-MINI-WASHING-MACHINE-5-2kg-SPIN-DRYER-with-DRAIN-PUMP/372867646964?hash=item56d0a4c5f4:g:UiUAAOSwsLtVeuNQ",
-               "productImage": "https://i.ebayimg.com/thumbs/images/g/UiUAAOSwsLtVeuNQ/s-l225.jpg",
-               "productAvailability": "Brand New",
-               "shipping": "Free International Shipping || From Germany",
-               "price": "$181.54",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "6013",
-               "websiteName": "ebay",
-               "productName": "Daewoo DWD-03MCWR Appliances Wall Mounted Mini Drum Washing Machine 220_UA",
-               "productLink": "https://www.ebay.com/itm/Daewoo-DWD-03MCWR-Appliances-Wall-Mounted-Mini-Drum-Washing-Machine-220-UA/223810079675?_trkparms=ispr%3D1&hash=item341c1ecbbb:g:QowAAOSwdOxeACP7&enc=AQAFAAACcBaobrjLl8XobRIiIML1V4Imu%2Fn%2BzU5L90Z278x5ickkgCVySCgrNFPU8Iu85TabMG2M40P3zE9c324fuiwUf2u6TviutSiTH%2FwDEiLRRExmItuTe%2FqPAzbCr%2FtTbKw54oikISIbVggT49QlerTBMqbcKeHd8wXWolE47Ps0gJVP1ZCye51fT6SxTgQvsfLwqFPawie3dGPzL3Jvai5VRFuxapUymWiHo27aXgkj5KeXEz2de4hKIIfxqvAkZpEbtdYKe05iGXnbJtsQKFc%2Bc7RHeIUIS6fuXDhCbCjDolrkVTFt7Sg9EPKp97qZyYCvtnZuzRvqrB6eoQPCTjt3fncmDnpvxlnXFbQIyZY1AypAnRvLvHN2ebpLtc5eFYtpLlNtv6OoQ0NDLQ3BfBKn73hV1488vnuSioOxSuq3JUf9JPA%2FZAw2JBIyCDHpXzWOjHmcXo%2B1nNdic9QfiHYkHvmYAYZbZtAWjRt8vfLsXmPCdBfAINQOA8D5qfvY5eXkxZftbY9B9beQQBgm4VyOo8IhDAW84HpB5q%2F9faMv5hx%2BCBg6h1%2B%2F615WcC9EiDJkFneE19pSSaK8D4iLcV%2FS9fQOJskuVsK%2BTCpJjspjRinPfHY%2FCINYs2AnpJ7SsESK%2B7ZFsSMhv7Vqcigng0QjDXm%2FwkPi48E%2FDBAkXZ8A%2F6ru8SWhRpgVQva4L7dh7sRKN9nTBhNdJ5F7OFT9SMq%2Bb%2FtG35z0E4L0XmKCNi6U3In%2BOAHBmtL5DR8fpAy%2Fb2f2R%2B6KhoNCCtSqKVWX4hIu%2F9mElermf4jJRsde6rFRLNs0gv%2Bj3R0AXrUzSuvLAF2yxQ%3D%3D&checksum=2238100796756bddd584f358428a87b6ce154821c9ab",
-               "productImage": "https://i.ebayimg.com/thumbs/images/g/QowAAOSwdOxeACP7/s-l225.jpg",
-               "productAvailability": "Brand New",
-               "shipping": "Free International Shipping || Top Rated SellerFrom Korea, South",
-               "price": "$561.79",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               }
-            },
-            {
-               "id": "3414",
-               "websiteName": "ali_express",
-               "productName": "Washing-Machine Turbo Ultrasonic Mini Portable USB Travel Home Business Convenient Personal",
-               "productLink": "https://www.aliexpress.com/item/4001102688558.html",
-               "price": "US $5.34 - 17.12",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               },
-               "shipping": "Shipping: US $10.04",
-               "productAvailability": "44 Sold",
-               "productImage": "https://ae01.alicdn.com/kf/H0e3f786bd6ad4440b4c6cff40058ad52Z/Mini-Ultrasonic-Washing-Machine-Portable-Turbo-Personal-Rotating-Washer-Convenient-Travel-Home-Business-Travel-USB.jpg_220x220xz.jpg"
-            },
-            {
-               "id": "7315",
-               "websiteName": "ali_express",
-               "productName": "Underwear Washing-Machine Portable Mini Baby Small Household Travel Dolly-Tub Clear Folding",
-               "productLink": "https://www.aliexpress.com/item/4001166894813.html",
-               "price": "US $99.99",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               },
-               "shipping": "Shipping: US $39.76",
-               "productAvailability": "1 Sold",
-               "productImage": "https://ae01.alicdn.com/kf/H77c0417d18ca447dbfabe6fa642c1cccF/Folding-Washing-Machine-Household-Baby-Small-Portable-Simple-Tube-Underwear-Mini-Clear-Dolly-Tub-Travel.jpg_220x220xz.jpg"
-            },
-            {
-               "id": "3316",
-               "websiteName": "ali_express",
-               "productName": "Wash-Machine Underwear Portable Mini Panties Care Folding Business-Trip",
-               "productLink": "https://www.aliexpress.com/item/4000191021507.html",
-               "price": "US $238.98",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               },
-               "shipping": "Free Shipping",
-               "productAvailability": "1 Sold",
-               "productImage": "https://ae01.alicdn.com/kf/H8a8fb6667a8845e795ed1260400bf2abX/Mini-Wash-Machine-Folding-Washing-Machine-Underwear-Panties-Care-Business-Trip-Portable.jpg_220x220xz.jpg"
-            },
-            {
-               "id": "4517",
-               "websiteName": "ali_express",
-               "productName": "Small Ultrasound-Turbo-Washer Washing-Machine Laundry-Cleaning Mini Portable Travel Household",
-               "productLink": "https://www.aliexpress.com/item/32980381629.html",
-               "price": "US $13.63",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               },
-               "shipping": "Shipping: US $4.96",
-               "productAvailability": "22 Sold",
-               "productImage": "https://ae01.alicdn.com/kf/HLB1uTuAKyLaK1RjSZFxq6ymPFXaP/200-rpm-min-Washing-Machine-Mini-Travel-Portable-Household-Small-Washing-Machine-Ultrasound-Turbo-Washer-Laundry.jpg_220x220xz.jpg"
-            },
-            {
-               "id": "3618",
-               "websiteName": "ali_express",
-               "productName": "Turbine-Washer Washing-Machine Trip Mini Portable Personal Home H0172 Rotating Business",
-               "productLink": "https://www.aliexpress.com/item/33029404023.html",
-               "price": "US $14.34 - 17.62",
-               "actualPrice": {
-                  "value": 4000,
-                  "dollarPrice": 200,
-                  "currency": "$"
-               },
-               "shipping": "Shipping: US $11.28",
-               "productAvailability": "127 Sold",
-               "productImage": "https://ae01.alicdn.com/kf/HTB1FMSTbgKG3KVjSZFLq6yMvXXa8/Mini-Washing-Machine-Portable-Personal-Rotating-Turbine-Washer-Home-Business-Trip-H0172.jpg_220x220xz.jpg"
-            }
-         ]
-      }
-   ]
+	"productDetails": {
+		"name": "Infinix NOTE 8i(X683)-6.78\"HD+ INFINITY-O DISPLAY-64GB ROM/4GB ROM-8MP+48MP/2MP/2MP/AI LENS-5200MAH-OBSIDIAN BLACK",
+		"description": "Infinix Note 8 and Note 8i have been launched by the Shenzhen-based company at a virtual event. Both models come with quad rear cameras and are powered by MediaTek Helio G80 SoC. The Infinix Note 8 and Note 8i also feature a hd+ infinity-o display, with the Note 8 featuring dual selfie cameras. For an enhanced audio experience, the Infinix Note 8 and Note 8i come with DTS Audio processing. The Infinix Note 8 also comes with dual speakers to deliver stereo audio. The dual-SIM (Nano) Infinix Note 8i runs on Android TM10 and features a 6.78-inch HD+ (720x1,640 pixels) IPS display with a 20.5:9 aspect ratio. The phone is powered by the MediaTek Helio G80 SoC, paired with 4GB of RAM. It comes with the quad rear camera setup that includes a 48-megapixel primary sensor, 2-megapixel macro shooter, 2-megapixel depth sensor, and an AI lens. For selfies, the Note 8i offers a single 8-megapixel camera sensor at the front, along with dual LED flash. Infinix has given 64GB of onboard storage that is expandable via microSD card (up to 128GB) through a dedicated slot. Connectivity options include 4G LTE, Wi-Fi 802.11ac, Bluetooth, GPS/ A-GPS, USB Type-C, and a 3.5mm headphone jack. Sensors on board include an accelerometer, ambient light, magnetometer, and a proximity sensor. There is also a side-mounted fingerprint sensor.The Infinix Note 8i includes a 5,200mAh battery that supports 18W fast charging. Lastly, the phone measures 171.4x77.7x8.9mm.PRODUCT DETAILS: MEMORY 64GB ROM/4GB RAM, PROCESSOR HELIO G80, CONNECTIVITY GPS/WIFI/BT, NETWORK 4G/3G/2G, BATTERY CAPACITY 5200MAH, DIMENSION 171.4*77.7*8.9MM, OPERATING SYSTEM ANDROID TM 10, DISPLAY 6.78\" HD+ INFINITY-O DISPLAY, CAMERA  8MP FF WITH DUAL FLASH LIGHT/ 48MP+2MP+2MP+AI LENS ULTRA NIGHT QUAD CAMERA WITH QUAD FLASH LIGHT, RESOLUTION 720*1640 , SENSOR  G-SENSOR/E-COMPASS/L-SENSOR/PROXIMITY SENSOR/FINGERPRINT/SOFT-GYROSCOPE",
+		"rating": { "stars": "0 out of 5", "details": "(No ratings available)" },
+		"brand": " Infinix ",
+		"price": "₦ 68,500",
+		"img": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/22/215676/1.jpg?2524",
+		"priceStats": {
+			"highestPrice": 123000,
+			"lowestPrice": 382.5,
+			"averagePrice": 45880.33
+		},
+		"searchQuery": {
+			"item": "infinix note 8",
+			"stores": "konga,jumia,aliexpress,kara,ebay,slot,femtech",
+			"createdAt": 1606027557954
+		},
+		"items": [
+			{
+				"id": "be64abb6-f1c3-4631-94a0-2b39eecb41f9",
+				"websiteName": "ebay",
+				"productName": "Infinix Note8,Hot 8,Note 6,Hot 9,Hot 10 Premium Tempered Glass Screen Protector ",
+				"productLink": "https://www.ebay.com/itm/Infinix-Note8-Hot-8-Note-6-Hot-9-Hot-10-Premium-Tempered-Glass-Screen-Protector/324025787912?hash=item4b71712608:g:XEgAAOSwGJVeB3o1",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/XEgAAOSwGJVeB3o1/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$9.49",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "2ee3eb0b-3d05-4b33-abf2-8fe927f66cfd",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (4GB RAM, 128GB ROM) Android 10 (48/2/2/2)MP + 8MP Selfie - 5200mAh - Dual Sim  -4G LTE- Obisidian Black",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-4gb-ram-128gb-rom-android-10-48222mp-8mp-selfie-5200mah-dual-sim-4g-lte-obisidian-black-67940078.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/004976/1.jpg?7606",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 95,000",
+				"actualPrice": {
+					"value": 95000,
+					"dollarPrice": 248.36,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "cb778314-270a-4a4e-bfe2-88a74d5135e0",
+				"websiteName": "ebay",
+				"productName": "WALLET CARD SLOT LEATHER FLIP STAND CASE COVER For Various Infinix Smartphones",
+				"productLink": "https://www.ebay.com/itm/WALLET-CARD-SLOT-LEATHER-FLIP-STAND-CASE-COVER-For-Various-Infinix-Smartphones/232245307177?hash=item3612e62729:g:ZWMAAOSwax5YqUt5",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/ZWMAAOSwax5YqUt5/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$4.49",
+				"actualPrice": { "value": 1530.01, "dollarPrice": 4, "currency": "$" }
+			},
+			{
+				"id": "ab4d2d1b-cf5f-4686-ba6d-41c0206ad872",
+				"websiteName": "ebay",
+				"productName": "Poetic For Samsung Galaxy Note 8 [Guardian] Scratch Resistant  Rugged Case Black",
+				"productLink": "https://www.ebay.com/itm/Poetic-For-Samsung-Galaxy-Note-8-Guardian-Scratch-Resistant-Rugged-Case-Black/222654498123?_trkparms=ispr%3D1&hash=item33d73e054b:g:nDEAAOSw04ddSSy6&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkgCVySCgrNFPU8Iu85TabMHqe%252FNn4K3SaHIMgR8vAUtL1EOXTdIpaaVzOrkyhZku%252FrLwnD21qK1w63UxogbSGnXArDJwLxfntvV%252FgxHonlf8XjHjjOUUHCFWibITyDe57fNQ4VI4sljyArElyRz5sS14NB36W6J8TgaGnr4HBUQ%252F8G7osT4Gk3mQggwSHN6lNo%252FWTuCp7oNYACNplT4fVvQ2T1VEyG9Vb68%252BVCUUmldIeCv33NPxZBoDwG2MMMu4cYIKf%252F%252FNpRn8Vj1Rj%252BSTljvgxS66E0zdxLBuk5Zs68xqMBsZcX2hZcdqcLXyfUr7UfZaTHDU%252FW4XlD1irwiu%252FKi3lnUoowb8ocCSeFA5DZMNTXkPGR6L69T42ezcuoWyLn6jVsJdhBcoWqQeqdeu%252B09UuhONIC1NGjnsKg9Q5Uxzd%252BehMhZk%252BgyQcOpwg8SZViNa%252F0OhV6196Tit6KzzdZG1U2Qg1J5nfP1OMkJL%252Fhsr4Clbosiy8Kd%252BOsvSXHSosvuXPRnrlNvqjDor3SXsg6h5Ghj4hmO%252FXuz6dRaMi9%252FXQVxpUfR8bNPvcDtIMHWunkDYbIQup7RfwgEPcxpf3p7jP0%252FAS%252Bn%252BsA6v8epAZ%252FZofKaQeS2DBFga82Y113B6BuFu90tjcJRfPvx3w%252Bo1UGp3wqhqYcVpAXzS%252FBHED6XPZOw8fv8goglXwIUITkw6322N%252Bh1a93XmWVS7GKo7mVDLZuI8M2OL1GBvNtFNGiXFYO%252BWwz5qVIxfgcbsE5t4Q%7Ccksum%3A222654498123b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/nDEAAOSw04ddSSy6/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "FAST 'N FREEGuaranteed by Fri, Nov. 27Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$9.95",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "21e55c93-0117-45df-b0e7-dada6389c36e",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i 128GB ROM 6GB RAM  6.78'' HD 5200mAh Battery Android10 Tranquil Blue",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-128gb-rom-6gb-ram-6.78-hd-5200mah-battery-android10-tranquil-blue-67911154.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/111976/1.jpg?8854",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 98,000",
+				"actualPrice": {
+					"value": 98000,
+					"dollarPrice": 256.21,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "d67fb4b4-d31e-47b3-8564-0743cf11097d",
+				"websiteName": "kara",
+				"productName": " Infinix Note 6",
+				"productLink": "https://www.kara.com.ng/infinix-note-6",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/n/o/note_6.jpg",
+				"price": "₦73,700.00",
+				"actualPrice": {
+					"value": 73700,
+					"dollarPrice": 192.68,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "11b3ad2d-6e42-4ff1-93cf-da500e232e00",
+				"websiteName": "ebay",
+				"productName": "Tasche für Infinix Note 2 Wasserabweisende Neopren aus Flexiblem Dehnbaren",
+				"productLink": "https://www.ebay.com/itm/Tasche-fur-Infinix-Note-2-Wasserabweisende-Neopren-aus-Flexiblem-Dehnbaren/182329237691?hash=item2a73ab60bb:g:5IwAAOSwcLxYD-wU",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/5IwAAOSwcLxYD-wU/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$29.58 shipping",
+				"from": "From Spain",
+				"price": "$17.72",
+				"actualPrice": { "value": 6502.53, "dollarPrice": 17, "currency": "$" }
+			},
+			{
+				"id": "d139930e-6b80-4338-b1e1-39e92d907132",
+				"websiteName": "ebay",
+				"productName": "Infinix Hot 9 (Violet, 64 GB Storage) (4 GB RAM) Unlocked",
+				"productLink": "https://www.ebay.com/itm/Infinix-Hot-9-Violet-64-GB-Storage-4-GB-RAM-Unlocked/313222427917?hash=item48ed82f50d:g:TOgAAOSwz~ZfXF15",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/TOgAAOSwz~ZfXF15/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From India",
+				"price": "$199.00",
+				"actualPrice": {
+					"value": 76117.88,
+					"dollarPrice": 199,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "a38f1eed-ad8f-4eef-82de-8eae02088aa6",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8 - X692 - 6.9\" (6GB, 128GB ROM) Android 10 (64/2/2/2)MP + 16/2MP - Dual Sim - 5200mAh - 4G LTE - Deepsea Luster",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8-x692-6.9-6gb-128gb-rom-android-10-64222mp-162mp-dual-sim-5200mah-4g-lte-deepsea-luster-67781607.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/618776/1.jpg?3153",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 123,000",
+				"actualPrice": {
+					"value": 123000,
+					"dollarPrice": 321.57,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "ab170724-192c-46d1-a889-4edb845cf5fa",
+				"websiteName": "ebay",
+				"productName": "Accessories For Infinix Note 8 (2020): Sock Bag Case Sleeve Belt Clip Holster...",
+				"productLink": "https://www.ebay.com/itm/Accessories-For-Infinix-Note-8-2020-Sock-Bag-Case-Sleeve-Belt-Clip-Holster/174524696691?hash=item28a27b8873:g:trUAAOSwDxdftbGE",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/trUAAOSwDxdftbGE/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$6.85 shipping",
+				"from": "From Spain",
+				"price": "$30.57",
+				"actualPrice": { "value": 11475.06, "dollarPrice": 30, "currency": "$" }
+			},
+			{
+				"id": "ea5b5e5b-3c3e-421e-9eb5-63a27518d5d6",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-64543433.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/434546/1.jpg?5509",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 67,750",
+				"actualPrice": {
+					"value": 67750,
+					"dollarPrice": 177.12,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "8ed7543f-70f4-4020-896f-d91e730a39fe",
+				"websiteName": "kara",
+				"productName": "Infinix Note 4 Pro with XPEN",
+				"productLink": "https://www.kara.com.ng/infinix-note-4-pro-with-xpen",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_note_4_pro_with_xpen.jpg",
+				"price": "₦53,900.00",
+				"actualPrice": {
+					"value": 53900,
+					"dollarPrice": 140.91,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "91e1b179-d6f2-4eba-a9d9-6376600b6f70",
+				"websiteName": "ebay",
+				"productName": "Infinix Hot 9 Pro 64GB 4GB RAM 6.6\" Quad Rear Camera Dual Sim Googleplay Phone",
+				"productLink": "https://www.ebay.com/itm/Infinix-Hot-9-Pro-64GB-4GB-RAM-6-6-Quad-Rear-Camera-Dual-Sim-Googleplay-Phone/184329428823?hash=item2aeae3df57:g:KewAAOSwe0de51go",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/KewAAOSwe0de51go/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$198.90",
+				"actualPrice": {
+					"value": 75735.37,
+					"dollarPrice": 198,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "1016aae4-522e-4f7e-86b0-373a53756251",
+				"websiteName": "ebay",
+				"productName": "Screen Protector Anti Shock Anti-Scratch Clear Infinix Note 8",
+				"productLink": "https://www.ebay.com/itm/Displayschutzfolie-AntiSchock-Anti-Kratzen-Klar-Infinix-Note-8/164526743325?_trkparms=ispr%3D1&hash=item264e8edf1d:g:FngAAOSw6DBfuDwh&amdata=enc%3AAQAFAAACcBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkfOCvCjTOBWK8pwriaolq5pn%252BcTHgGKDn79QNAdi4Vc8PTgBelYJVRudFrYFPX%252BYJEuS11XPd1yY2Tr7sQ1G%252BfIo8smPmDJ8o5QC3%252F8wH%252F8poJijTnt55igMK2OsLEOW4DgcnJqpbY3LUUE6KvxrI%252B4V%252FuZSKSxilCpA0M2ol9ZHDbW15dV90gTx8cN98DFIhFrnCaTl2H7XKOwbncvHF4KuLrwKyvYSGC2MKkvrN3%252FEmRVqVjFmL0tKppJ%252B%252FY8hhQvr14ohqsGpM8EvvWt7LzwBi%252BvhcAYMHgQ6y3D7y5IUA4J4y58efs7YBcgWS3ZNFxX8Mb1Xa%252BpShTjRKtTaKcbV0xhNVg1lKoVncALNZDPNyB59vy7%252FrVGi%252B35A2MbeD7McEzBKHqv1PLib0KelnME7EEjfPuLsKv0VJKUyWW%252BBiyF%252FBHQ4g4Q0LT7oE1x%252F48FC2w%252FUItggR%252BvvqErHoYinlT%252B0sH30JKf%252FMIbuXZEUNa%252BURSGGWRLK57DwtTfLGvVcJujhHiXfH0fBtClZDad%252BbTXb%252BLVD4aeX7l6GXOL4GpPsp9ntJG9%252Fyw5LNFT1859az9FVo1c3wq90mnfb%252Bs%252FZEWwIXDhoZJ4KdOsf%252BA5i%252B8CjqBG42NqVoK2lc8n%252BT7VmpiVraOCz6Z2w6fAYmY5vbiL24qMQVl1vJ72ygUuRdmX4oA0SoR18J4d6DDhjYe1%252F2I%252BlWo%252FTS4nXIj5LYEYB0pwX2Tvj1YasAARfXxXaNndA%252B9JG%252FScRiRy2QvjF4z8Yq%252BBriaQcPCLBc9NjPGQ%253D%253D%7Ccksum%3A164526743325b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/FngAAOSw6DBfuDwh/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.96 shipping",
+				"from": "From Spain",
+				"price": "$2.36",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "1147ad00-3177-45eb-96d6-ec39a28b057d",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8 - X692 - 6.9\" (6GB, 128GB ROM) Android 10 (64/2/2/2)MP + 16/2MP - Dual Sim - 5200mAh - 4G LTE - Silver Diamond",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8-x692-6.9-6gb-128gb-rom-android-10-64222mp-162mp-dual-sim-5200mah-4g-lte-silver-diamond-67911152.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/111976/1.jpg?8926",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 123,000",
+				"actualPrice": {
+					"value": 123000,
+					"dollarPrice": 321.57,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "53876ad1-7fa5-4472-a327-40ef28ef5254",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH-FOREST GREEN",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-forest-green-59752367.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/325795/1.jpg?1006",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 72,999",
+				"actualPrice": {
+					"value": 72999,
+					"dollarPrice": 190.85,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "2ca8bae5-4621-4d13-a987-ff097be25741",
+				"websiteName": "ebay",
+				"productName": "Screen Protector Anti-Shrapnel Shock-Proof Anti-Scratch Infinix Notes 8i",
+				"productLink": "https://www.ebay.com/itm/Pellicola-Protettiva-Anti-schegge-Antishock-Anti-graffio-Infinix-Note-8i/313309363522?hash=item48f2b17d42:g:Kw8AAOSw0FRfuDzK",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/Kw8AAOSw0FRfuDzK/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.96 shipping",
+				"from": "From Spain",
+				"price": "$2.36",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "1eeafb43-ea45-4450-aaff-76f457ec1585",
+				"websiteName": "ebay",
+				"productName": "AMZER Slim Snap On Case Carbon Fibre Redux 8 HARD Plastic Protector Phone Cover",
+				"productLink": "https://www.ebay.com/itm/AMZER-Slim-Snap-On-Case-Carbon-Fibre-Redux-8-HARD-Plastic-Protector-Phone-Cover/123058500442?hash=item1ca6dbb35a:g:zcIAAOSwL9paxMfO",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/zcIAAOSwL9paxMfO/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$18.55",
+				"actualPrice": { "value": 6885.03, "dollarPrice": 18, "currency": "$" }
+			},
+			{
+				"id": "689c997a-6f32-44b6-bc49-cd76a49076d4",
+				"websiteName": "ebay",
+				"productName": "Infinix Note 5 Stylus (Red,64GB)4GB RAM 5.93\" 16MP Rear Camera Googleplay Store",
+				"productLink": "https://www.ebay.com/itm/Infinix-Note-5-Stylus-Red-64GB-4GB-RAM-5-93-16MP-Rear-Camera-Googleplay-Store/173680217825?_trkparms=ispr%3D1&hash=item287025cee1:g:8Q0AAOSwMhVcCnQm&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkSG%252BOFgrj2Yvbvmrj2TAdM%252BvWfj2QFN%252FrWBdREnDPp9jtY6iO7nw9S8qpGXhX0FptJph40WPHb%252Bsc8NoQRDSvA%252BaL5Tbw8Sk5icAnN6xRGnikamObtS1fvECaUyI4NwUVmG2ijAk406TYZNbXkDdobP3noxUthJaOESef%252FkHU0zVP0URAdADK%252BrEsVBtL8tuF2kjr72zgZCNGrpomrhXJoiNqpgOPegD1m6S1zpqy4HZ78%252FbJOsS0Vl2OL15ayXjXZHtml2NRkLq%252Fvy9OYlzCPeho8i53U9HjjWNliKras6Ey2n%252FTjNT%252BwiF6OrFeuY4wjcDoWfxdPvPVPkBxMKy%252BuTNUPFxvoQA0s347QXo4014byeUArF%252BWeBla%252FrOuAtkQSUVx4Xt1y7KmarWxnIGdIs5KE%252BLqmfKtoe7vG8HQqI%252FZoOpmSJ3xUVctdqzGCpX1Of%252BAUrmr1%252FDtfaWje90VacHbRg2JyMwQz%252Bp4cqDSY1lljaKRjhRqbS8anZnfhZecX%252BPutRZ%252FEhKmpYGKbqOSrmmZ3WCJvtxRK%252FaCepDA2E9C%252FM3zS1x%252BKJSlJ%252BOWTirdj%252FMSzqwZ%252FDfWns4ssLKioqqVBFllFlfW0ZnmLQyb0ISmkIyUwap6yHL3AwwCkQkUZyZ51%252FXTLMDv2J1MSXG8Mq%252B2ql8%252FJrU83i6VCreYxth%252F9UXNtKLEwzWKgaCzTltLFAun2URQ2NJiN18Uq6pSBtRN08ch0seKhTFJBzn8Rbi%252B0tNgLLlWZx0l0gFKUfZO%7Ccksum%3A173680217825b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/8Q0AAOSwMhVcCnQm/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$24.00 shipping",
+				"from": "From India",
+				"price": "$209.90",
+				"actualPrice": { "value": 79942.9, "dollarPrice": 209, "currency": "$" }
+			},
+			{
+				"id": "1e1ff8a6-0a2b-4f57-a4d7-d83ab5f951a7",
+				"websiteName": "ebay",
+				"productName": "Cover for Infinix Hot Note Neoprene Waterproof Slim Carry Bag Soft Pouch Case",
+				"productLink": "https://www.ebay.com/itm/Cover-for-Infinix-Hot-Note-Neoprene-Waterproof-Slim-Carry-Bag-Soft-Pouch-Case/172389735150?epid=2061592203&hash=item28233a9aee:g:ktEAAOSwA3dYEqlT",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/ktEAAOSwA3dYEqlT/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From Spain",
+				"price": "$14.58",
+				"actualPrice": { "value": 5355.03, "dollarPrice": 14, "currency": "$" }
+			},
+			{
+				"id": "03bdfb43-6d5b-44c8-942f-2375f13f3109",
+				"websiteName": "ebay",
+				"productName": "Infinix S5 Pro 64 GB 4 GB RAM 6.53\" Triple Rear Camera Dual Sim Googleplay Phone",
+				"productLink": "https://www.ebay.com/itm/Infinix-S5-Pro-64-GB-4-GB-RAM-6-53-Triple-Rear-Camera-Dual-Sim-Googleplay-Phone/184309475753?hash=item2ae9b369a9:g:tGEAAOSwphFe0Kvq",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/tGEAAOSwphFe0Kvq/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$200.00",
+				"actualPrice": {
+					"value": 76500.38,
+					"dollarPrice": 200,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "d873eb60-68ea-456d-b425-f481bad93b1d",
+				"websiteName": "ebay",
+				"productName": "Infinix note 8/universal case compatible case cover bumper",
+				"productLink": "https://www.ebay.com/itm/Infinix-Note-8-UNIVERSEL-ETUI-COQUE-COMPATIBLE-BUMPER-HOUSSE/164484344234?epid=12042043042&hash=item264c07e9aa:g:WsYAAOSwdXheb-Eg",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/WsYAAOSwdXheb-Eg/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From France",
+				"price": "$9.47",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "6572176f-a433-451c-9c36-6ae49bd37a8e",
+				"websiteName": "ebay",
+				"productName": "Slim Leather Case Ultra Thin Protective Cover For Galaxy Note10 /+ S10 S9 S8Plus",
+				"productLink": "https://www.ebay.com/itm/Slim-Leather-Case-Ultra-Thin-Protective-Cover-For-Galaxy-Note10-S10-S9-S8Plus/274211065924?hash=item3fd840d044:g:um0AAOSweMJeImxG",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/um0AAOSweMJeImxG/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$8.68",
+				"actualPrice": { "value": 3060.02, "dollarPrice": 8, "currency": "$" }
+			},
+			{
+				"id": "d03d9b7d-336d-4b86-a9dc-9cd7f9f7fbf2",
+				"websiteName": "kara",
+				"productName": "Infinix HOT S4 Pro",
+				"productLink": "https://www.kara.com.ng/infinix-hot-s4-pro",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix-s4-design.jpg",
+				"price": "₦62,700.00",
+				"actualPrice": {
+					"value": 62700,
+					"dollarPrice": 163.92,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "47e1b81a-17a1-4cff-9236-cb77ff4f040b",
+				"websiteName": "kara",
+				"productName": "Xiaomi Redmi Note 9 - 3GB RAM",
+				"productLink": "https://www.kara.com.ng/xiaomi-redmi-note-9-3gb-ram",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/x/i/xiaomi_redmi_note_9_-_3gb_ram.png",
+				"price": "₦80,000.00",
+				"actualPrice": {
+					"value": 80000,
+					"dollarPrice": 209.15,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "70e6e3c5-8c5a-4126-8d3d-f012cca28b32",
+				"websiteName": "ebay",
+				"productName": "Launch Infinix Smart 4 Plus Unlocked Double SIM-3GB RAM-6.82 inch HD+ Display",
+				"productLink": "https://www.ebay.com/itm/Launch-Infinix-Smart-4-Plus-Unlocked-Double-SIM-3GB-RAM-6-82-inch-HD-Display/184389607302?hash=item2aee7a1f86:g:mFsAAOSwcQNfFpr7",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/mFsAAOSwcQNfFpr7/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$11.59 shipping",
+				"from": "From India",
+				"price": "$171.99",
+				"actualPrice": {
+					"value": 65407.82,
+					"dollarPrice": 171,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "4004f620-05c1-468a-9af7-702206b5ab7a",
+				"websiteName": "ebay",
+				"productName": "New Listingpour Infinix Note 8i (2020) Étui Housse Multiusages 4 Compartiments Fermeture...",
+				"productLink": "https://www.ebay.com/itm/pour-Infinix-Note-8i-2020-Etui-Housse-Multiusages-4-Compartiments-Fermeture/193761010009?hash=item2d1d0e6159:g:~AwAAOSwqqdfuc4l",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/~AwAAOSwqqdfuc4l/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "fa9cb157-6158-40ee-abfd-80364985ff51",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE (X656) - 6.6\" HD+ PUNCH HOLE, 64GB ROM+4GB RAM, 8MP+48MP/2MP/2MP/AI LENS, 4G LTE, 5000MAH -Violet",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-lite-x656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-violet-61981333.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/318916/1.jpg?6592",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 80,000",
+				"actualPrice": {
+					"value": 80000,
+					"dollarPrice": 209.15,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "36062e3f-fcbb-4158-beba-c42e3ccd2893",
+				"websiteName": "ebay",
+				"productName": "Samsung Galaxy Note 8 N950U 64GB Factory Unlocked Smartphone",
+				"productLink": "https://www.ebay.com/itm/Samsung-Galaxy-Note-8-N950U-64GB-Factory-Unlocked-Smartphone/253996027346?hash=item3b2357cdd2:g:To8AAOSwKKZdi9Tg",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/To8AAOSwKKZdi9Tg/s-l225.jpg",
+				"productAvailability": "Refurbished",
+				"shipping": "Free shipping",
+				"from": "FAST 'N FREEGuaranteed by Fri, Nov. 27Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$249.99",
+				"actualPrice": {
+					"value": 95242.97,
+					"dollarPrice": 249,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "e440b4b8-2f7a-4559-833a-04eb0b0023f1",
+				"websiteName": "kara",
+				"productName": "Infinix Note 5 Stylus specs 4GB RAM - 32GB ROM",
+				"productLink": "https://www.kara.com.ng/infinix-note-5-stylus-4gb-ram-32gb-ram",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_note_5_stylus_32gb.jpg",
+				"price": "₦62,700.00",
+				"actualPrice": {
+					"value": 62700,
+					"dollarPrice": 163.92,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "3d4ea920-dcd0-4251-9f0f-e696913d69a9",
+				"websiteName": "ebay",
+				"productName": "New ListingSamsung Galaxy Note8 SM-N950 - 64GB - Maple Gold (Unlocked) Smartphone",
+				"productLink": "https://www.ebay.com/itm/Samsung-Galaxy-Note8-SM-N950-64GB-Maple-Gold-Unlocked-Smartphone/114533343578?epid=239156813&hash=item1aaab8215a:g:yu4AAOSwVrNftbKY",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/yu4AAOSwVrNftbKY/s-l225.jpg",
+				"productAvailability": "Pre-Owned",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$299.00",
+				"actualPrice": {
+					"value": 114368.07,
+					"dollarPrice": 299,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "e73c561a-5043-4043-8566-ef77215b2a04",
+				"websiteName": "ebay",
+				"productName": "Accessories for infinix note 8i (2020): pouch case clip belt bracelet...",
+				"productLink": "https://www.ebay.com/itm/Accesorios-Para-Infinix-Note-8i-2020-Funda-Carcasa-Clip-Cinturon-Brazalete/184542257865?hash=item2af79362c9:g:XFQAAOSw3o5ftbGl",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/XFQAAOSw3o5ftbGl/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "fe8704e3-e3f1-41db-bd7a-8875d62de800",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (4GB RAM, 128GB ROM) Android 10 (48/2/2/2)MP + 8MP Selfie - 5200mAh - Dual Sim  - 4G LTE - Tranquil Blue",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-4gb-ram-128gb-rom-android-10-48222mp-8mp-selfie-5200mah-dual-sim-4g-lte-tranquil-blue-67940130.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/03/104976/1.jpg?8145",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 90,000",
+				"actualPrice": {
+					"value": 90000,
+					"dollarPrice": 235.29,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "b1b66990-ccad-437f-852d-e591e5731f28",
+				"websiteName": "ebay",
+				"productName": "Screen protector Antishock Anti-scratch Anti-Shatter Infinix Note 8",
+				"productLink": "https://www.ebay.com/itm/Screen-protector-Antishock-Anti-scratch-Anti-Shatter-Infinix-Note-8/324382539133?_trkparms=ispr%3D1&hash=item4b86b4bd7d:g:Nl8AAOSw9CtfuDv1&amdata=enc%3AAQAFAAACcBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickk5v8gVt3hEWLVg%252F253w6XCX7iIZCiYSvgar%252FHH%252BRt7rN1tGHzhO2AQBK4UEHVVfTOGy1gQfQOaoIRlgPo9f84X02kO7tlJfJzd5P3B8LcuoFczBZEovlFfJ6kDe50G3IrJKJDLn1MvdU7%252Fb4EeeP0Ol7FGyxVaQwn1MFKiWezLzXZMjsCPWxBQI5s11uv%252B8uGigzCDbR%252FE51r6r%252Fw5Q9fu9m03KZxeya3DB3v338P%252Fe5%252BIXCIXrNCnOjE2PK7onkNk190jjm0ow91kaEL4Gub%252FEvm3LcFPZby14AzOGDVxbxmo2n26mEkkKICnTD%252Bh%252Bjej21oG8GUCmMwuLbQLlzwk9hyIsfBlNXi90srWCDcDt2LwoXrkPFEdX%252FQB0Khy7Nh2ex9aNIMeFPnXfGfVZTXO8o0ogl3wnDJil5UogF2GYnBX2FfOsnLAYQvywsj3ckSvkLn%252FO8ybcew7sbr%252FgLqlllbupX%252FAvFpwVhbzDoOjJACSlgTFaduxDD3L27k13sGzFz19GIcMUKvKpzGwyEYsqIggNPUgis07G4%252FJux0xh7qBCGBLoDMxwAV5yPV%252F5xDdNQzec8WqzBORtTP%252Bd5hrkPiFWhb%252BnHymAgoO%252FpA9ES0AqowPGnLKJt3QM19H6M83L3r906sUSbaRiHBO1hSdCxAe7F8cSFru8qWKDatqgwysUJVf3EPeFma7LadcNHzcYquSzTmfIrAFLotiTcv3Iqa2drA9txKYcz8UDAZF%252F5gQWNSzQ6Bukke4XNj%252BUwSu851dND98BZya%252Fns3cq5nA%253D%253D%7Ccksum%3A324382539133b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/Nl8AAOSw9CtfuDv1/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.95 shipping",
+				"from": "From Spain",
+				"price": "$2.29",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "c6e28db8-51ad-4969-aac6-7d02995a0ac3",
+				"websiteName": "ebay",
+				"productName": "Leather Wallet Stand Magnetic Flip Case Cover For Various Infinix Hot Phones",
+				"productLink": "https://www.ebay.com/itm/Leather-Wallet-Stand-Magnetic-Flip-Case-Cover-For-Various-Infinix-Hot-Phones/232614749452?hash=item3628eb650c:g:TgwAAOSwjyhaSJee",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/TgwAAOSwjyhaSJee/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$4.99",
+				"actualPrice": { "value": 1530.01, "dollarPrice": 4, "currency": "$" }
+			},
+			{
+				"id": "1badaf4d-e6ca-44a6-a195-5ae31ef96083",
+				"websiteName": "ebay",
+				"productName": "Infinix Hot S3X (Black, 32GB) 3GB RAM 6.2\" 13MP+2MP Rear Camera Googleplay Store",
+				"productLink": "https://www.ebay.com/itm/Infinix-Hot-S3X-Black-32GB-3GB-RAM-6-2-13MP-2MP-Rear-Camera-Googleplay-Store/183515557878?hash=item2aba612ff6:g:KNEAAOSwa29b2utA",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/KNEAAOSwa29b2utA/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$199.00",
+				"actualPrice": {
+					"value": 76117.88,
+					"dollarPrice": 199,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "97da77ff-07b1-4018-9c23-89a44a1306d3",
+				"websiteName": "ebay",
+				"productName": "New Launch Infinix Smart 4 Plus Unlocked Dual SIM-3GB RAM-6.82 inch HD+ Display",
+				"productLink": "https://www.ebay.com/itm/New-Launch-Infinix-Smart-4-Plus-Unlocked-Dual-SIM-3GB-RAM-6-82-inch-HD-Display/174356708777?hash=item2898783da9:g:fvQAAOSw3jZfFp9G",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/fvQAAOSw3jZfFp9G/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$24.90 shipping",
+				"from": "From India",
+				"price": "$149.90",
+				"actualPrice": {
+					"value": 56992.78,
+					"dollarPrice": 149,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "05a39e9f-0ab8-46ee-af51-562498c82bb2",
+				"websiteName": "slot",
+				"productName": "Infinix Note 8 128GB, 6GB Davido LE",
+				"productLink": "https://slot.ng/product/infinix-note-8-128gb-6gb-davido-le/",
+				"productImage": "https://slot.ng/wp-content/uploads/2020/10/infinix-davido-300x300.jpg",
+				"price": "₦90,400.00",
+				"actualPrice": {
+					"value": 90400,
+					"dollarPrice": 236.34,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "292a89a6-f968-462b-b058-b5e99dd3556e",
+				"websiteName": "ebay",
+				"productName": "New ListingFor infinix note 8 (2020) multi-purpose case with 4 compartments for belt",
+				"productLink": "https://www.ebay.com/itm/para-Infinix-Note-8-2020-Funda-Multiusos-con-4-Compartimentos-para-Cinturon/184546971892?hash=item2af7db50f4:g:XUgAAOSwy8Vfuc5u",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/XUgAAOSwy8Vfuc5u/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "7ed8646a-4ccf-47cd-8eee-81b9fed0b49e",
+				"websiteName": "ebay",
+				"productName": "New Listingpour Infinix Note 8 (2020) Étui Housse Multiusages 4 Compartiments Fermeture ...",
+				"productLink": "https://www.ebay.com/itm/pour-Infinix-Note-8-2020-Etui-Housse-Multiusages-4-Compartiments-Fermeture/174528605614?hash=item28a2b72dae:g:EkQAAOSwMQNfuc4t",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/EkQAAOSwMQNfuc4t/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "827c917c-55f8-47ba-9d45-05c881931192",
+				"websiteName": "kara",
+				"productName": "Xiaomi Redmi Note 7 4GB+128GB",
+				"productLink": "https://www.kara.com.ng/xiaomi-redmi-note-7-4gb-128gb",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/m/p/mph1471db_3.jpg",
+				"price": "₦83,600.00",
+				"actualPrice": {
+					"value": 83600,
+					"dollarPrice": 218.56,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "73c9e3d2-7c54-4e0d-a865-95a46aa81ac4",
+				"websiteName": "ebay",
+				"productName": "Replacement Back Glass Cover for Samsung Galaxy Note 8 w.Camera Lens+IP68 Tape",
+				"productLink": "https://www.ebay.com/itm/Replacement-Back-Glass-Cover-for-Samsung-Galaxy-Note-8-w-Camera-Lens-IP68-Tape/323301684156?hash=item4b464833bc:g:6O0AAOSwPk1eDYWj",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/6O0AAOSwPk1eDYWj/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$10.28",
+				"actualPrice": { "value": 3825.02, "dollarPrice": 10, "currency": "$" }
+			},
+			{
+				"id": "f7c37087-3937-4fde-a54f-8fabd6182dc7",
+				"websiteName": "ebay",
+				"productName": "Full Cover Tempered Glass Screen Protector For Samsung Galaxy S9 S8 S7 Edge Plus",
+				"productLink": "https://www.ebay.com/itm/Full-Cover-Tempered-Glass-Screen-Protector-For-Samsung-Galaxy-S9-S8-S7-Edge-Plus/201637227648?_trkparms=ispr%3D1&hash=item2ef283ec80:g:CPgAAOSwARZXn-eZ&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkrmmq8hWevtuKE7%252F%252BLfVXtv3VlaOCjTs6Stm6oHs3iZvahpbG1B9DBeNCJueXdvfjxpqxbw4oh3fO6V3wpSwVwDOUsp1xHLe%252BM%252Bujw9EaZhQEm2EUrInXS2wyTHCAgE%252BWhsH5UcdgtKUEGPZoWrSPp4tzPeOMkC48K%252FAycxQ46cqb4YQfwyGHanMUwDqQ2BhjEqacDaUf8Gv5cy1RzS%252F%252BhmNAq6tSO6cZoj%252F3cbakMthC8w5td8DPfmX2fWmtWOdIPdjlLKO9JvsBpr1L3NwdR4i7gqr%252BOeRrcn4b871LUpUVUaRDx%252FEKtxcpkIp8OnZ0YnFuWnrgRGxoK7ylQ%252FaLRpOU2WaTGu5f2RumXf33uxMkUldc77nKF25HkzcjnAvGb0SaTvobPpnevhtQ%252BgCU5wZ4%252B5IAS8XXJJkFxLmt9hYDP7uEr0Qy9EyxZOuKpTN6BNAgI9iR7EjXNT7afGWKL8mUxCRSJFhJ4Tene2v2lpC1fMuv7MsvSerZ1XjwVV%252F7%252F81NMlbU6sATCQsWU%252B8malsD6ZnRl3QcbxVqL1SMnwcYGhDEJekgBPHLJqRieD%252BIGKZMqqw2uq%252BcNZwhABpQbvX2hERJmflVa0h1Kr06bR%252FfHj3FgbHfw6BuT5JSzsK09k4uygyByYqmfSIDEh8tyOJsJaIG7qonbKD%252BEaEt73MgIAulBFf2q%252B7rpCl7PZU90pxVSvI4TN%252BbQvZL33rwIp93wfSA6VJD93pTmr%252FdJX2FuJSDybHeL7IHVpl1FWz7%7Ccksum%3A201637227648b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/CPgAAOSwARZXn-eZ/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$5.29",
+				"actualPrice": { "value": 1912.51, "dollarPrice": 5, "currency": "$" }
+			},
+			{
+				"id": "93c07627-d8b5-4e07-990e-a4cf1b0e0ac9",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8 Screen Guard-Full Edged Glass Protector",
+				"productLink": "https://www.jumia.com.ng//generic-infinix-note-8-screen-guard-full-edged-glass-protector-66881270.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/218866/1.jpg?0517",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 1,683",
+				"actualPrice": { "value": 1683, "dollarPrice": 4.4, "currency": "₦" }
+			},
+			{
+				"id": "70861562-3e31-4355-a3dc-b9030961fa3b",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (6GB RAM, 128GB ROM) - 48/2/2/2MP + 8MP Selfie - Dual Sim - 5200mAh - 4G LTE -  Ice Diamond",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-6gb-ram-128gb-rom-48222mp-8mp-selfie-dual-sim-5200mah-4g-lte-ice-diamond-67788084.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/48/088776/1.jpg?5995",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 98,000",
+				"actualPrice": {
+					"value": 98000,
+					"dollarPrice": 256.21,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "044aaa3d-bf33-4cfa-bf2d-f8f35c96b785",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH-VIOLET",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-violet-63007023.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/070036/1.jpg?6674",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 85,500",
+				"actualPrice": {
+					"value": 85500,
+					"dollarPrice": 223.53,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "55f78c9b-d0ac-4091-9871-06fc3b40e47f",
+				"websiteName": "kara",
+				"productName": "Infinix Hot 6 Pro 2GB RAM",
+				"productLink": "https://www.kara.com.ng/infinix-hot-6-2gb-ram-7151",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_hot_6_3gb_ram.jpg",
+				"price": "₦57,750.00",
+				"actualPrice": {
+					"value": 57750,
+					"dollarPrice": 150.98,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "df73a115-a8a3-4a8c-b244-ce93585be5d4",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 6 - X-PEN - 6.01-ch FHD+ (64GB ROM + 4GB RAM) - 16MP/8MP/2MP + 16MP -4000MAH -4G LTE-ANDROID 9 PIE - Black",
+				"productLink": "https://www.jumia.com.ng//infinix-note-6-x-pen-6.01-ch-fhd-64gb-rom-4gb-ram-16mp8mp2mp-16mp-4000mah-4g-lte-android-9-pie-black-42956021.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/065924/1.jpg?7253",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 83,000",
+				"actualPrice": {
+					"value": 83000,
+					"dollarPrice": 216.99,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "8c7ed0a1-fd1b-4018-851a-c4ca4e35e165",
+				"websiteName": "ebay",
+				"productName": "Cover for Infinix Note 2 Neoprene Waterproof Slim Carry Bag Soft Pouch Case",
+				"productLink": "https://www.ebay.com/itm/Cover-for-Infinix-Note-2-Neoprene-Waterproof-Slim-Carry-Bag-Soft-Pouch-Case/172389735577?hash=item28233a9c99:g:DbwAAOSwMVdYEqkR",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/DbwAAOSwMVdYEqkR/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From Spain",
+				"price": "$14.58",
+				"actualPrice": { "value": 5355.03, "dollarPrice": 14, "currency": "$" }
+			},
+			{
+				"id": "f1aa549f-6695-46f0-ab79-c1c041883224",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 8i(X683)-6.78\" HD+ INFINITY-O DISPLAY-128GB ROM/6GB RAM-8MP+48MP/2MP/2MP/AI LENS-5200MAH-OBSIDIAN BLACK",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8ix683-6.78-hd-infinity-o-display-128gb-rom6gb-ram-8mp48mp2mp2mpai-lens-5200mah-obsidian-black-67651233.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/215676/1.jpg?2524",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 81,400",
+				"actualPrice": {
+					"value": 81400,
+					"dollarPrice": 212.81,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "b27af2b3-7aa6-4958-884c-b712fc04c253",
+				"websiteName": "ebay",
+				"productName": "Premium Infinix Note 7 Lite,Hot 10,Hot 9,S5 Pro Tempered Glass Screen Protector ",
+				"productLink": "https://www.ebay.com/itm/Premium-Infinix-Note-7-Lite-Hot-10-Hot-9-S5-Pro-Tempered-Glass-Screen-Protector/274218428751?_trkparms=ispr%3D1&hash=item3fd8b1294f:g:idMAAOSwUrFeJzHm&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkY3FSd4Ad8xn3oRtkVexxrHIlFJp07vTFBI%252F3NUvyYLTOTEk5cUJbpj1yHWEdk1uGKC9dIDQje%252BtLDKVEmyskLauozdgZ7%252BCghfgUIn7FUCP1LJCv09AV1UTeBoS8FG9Fewkr%252BesvMDXWmoPd71Da0%252FjkbrHKP411GBo2Ujmdq6ampJSVT4eWQ1WDSzIVXmpc4DkCpLCAfOhpoRXYppxYnl4%252BA1oA4Xg4IS0jExu4Qo68tZTomXtehBXqxw4Yy1oPi9M%252FJ0RAT5a8wTLO85eLM0TlD0KvLoIdQH6tNRPNZt6B1SczA69JhgDMNLzpfF9xoM7X8dJzNg92lyndHeFQq4uh%252BoydHO5q8l%252BzPlI7lbsxv9Uc0ve2HMovTzJsZlGFuU33Ij7YOivg4pWw1KU95TGTLFMmD3LNjmU9og2szO%252B58oVbuz5jpDJk%252ByJKkdGGVMRTuNidGYPW12B%252B9JHnV8FrFXs%252BoLimoP%252BQnQaT%252B4UjWHYto0TyqrTgpr%252BMBCed0jhlnOUXiYypWNkzNREtMvNSNHlIK7ulX3UMZZ23z36hsXDLJI6bj48xjfB%252F78u90ql8p6xk9PBx%252Fm9DI1if9zAYu1y6Q8DdPQ2NSprZ7Yi06zdW4SH9qt%252F96YxXT3DXMx9t2ha2wev1VCTtPHfIfSqZ5R0hIOloavA1vAses0rTzWzmolRyoAvzokB3Nc0zB%252Bq1xvlcjfiX2IHIXx5M%252Fz6q57HxPGnuSAqkq4UZPf9fAYP1xHlToNZWkaVemNio%7Ccksum%3A274218428751b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/idMAAOSwUrFeJzHm/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$9.49",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "5b27755e-c2b7-43d8-9478-5d6ffab38f2d",
+				"websiteName": "ebay",
+				"productName": "pour Infinix Note 8 (2020) Étui Housse XXM Portefeuille Ceinture Multiusages ...",
+				"productLink": "https://www.ebay.com/itm/pour-Infinix-Note-8-2020-Etui-Housse-XXM-Portefeuille-Ceinture-Multiusages/174522070378?hash=item28a253756a:g:jj0AAOSw7TNfs~VE",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/jj0AAOSw7TNfs~VE/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "a8c41220-490f-439e-84ec-8b2819fd7795",
+				"websiteName": "ebay",
+				"productName": "Antishock screen protector anti-shock Anti-scratch infinix note 8i",
+				"productLink": "https://www.ebay.com/itm/Protector-de-Pantalla-Antishock-Anti-Golpe-Anti-aranazos-Infinix-Note-8i/324382540342?hash=item4b86b4c236:g:ftgAAOSwQPVfuDya",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/ftgAAOSwQPVfuDya/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.78 shipping",
+				"from": "From Spain",
+				"price": "$2.36",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "73278d7f-97d9-4531-962c-a2e938d95478",
+				"websiteName": "ebay",
+				"productName": "2Pcs Tempered Glass Screen Protector For Infinix Hot 7 Hot 8 Hot 9 HOT 6X Hot S4",
+				"productLink": "https://www.ebay.com/itm/2Pcs-Tempered-Glass-Screen-Protector-For-Infinix-Hot-7-Hot-8-Hot-9-HOT-6X-Hot-S4/114388539377?_trkparms=ispr%3D1&hash=item1aa21697f1:g:qzkAAOSwkcVewj-b&amdata=enc%3AAQAFAAACcBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkAgU0umhwUTmgTFbE5cu7zQLLfmx0bilW7XwRJAUdm4aJqZd1ZqwW0RQi4SIxll4za11IigX%252FzEmMV3MpOhOjTc4jFyGPxbOlFrSnNQCOIse6TGNSldzIPzZi3mxtjZURMF7gTxk5c8OWuxIGX7EI%252Fh2%252FGYwi1i5ETYWEct7vKwOV9F1CbdcWiCQw5dQm4onjVXjONYr43l1V12x8izb%252BwJHhUnGkR6UUknbphSXI%252Fm65854fBjOpXuV8u9Q0XRp75uTofwx%252FfcVHNR2N9l%252ByE8jkc5Q9vV7Ed3Q0%252BEYLNdS869oShfPpyZLXrC8cSzGFCuPnMZNoPS%252BGE12HLdpPzXy0ivvj8Kw3D6m0i65hqoWZ2hMrk41XZmFlbRg%252FDWhfGuu34cD3DWv1YYj4CXIcfyqDLvfAr9AXYXcom0HHGR8R1pLHmv%252BUL2Q2wmZ5qvTiS%252FSzG9JCHaSLy0j8tclVVp72dmgoF8RMBUG6%252F80clvaMY4DlGS1tR4lLWQeu2cVAxVvuBXzigCrK2zGRKrYwd6jgJZ%252F7REuXbHzflWyCoPpwRwAhdZ3eIuRwWoHYAFlIsWcsp0m762VpcNleeBU%252B90q0BUetS2D2iHssdIcIIswomEW1pI75KeFjxoNlES4SvHHunCTeoBoxvmCYCwGmyfPkVTgaU5QS9YUUnD2u8NrDRmzHc8Yds%252BoewyhNGb6NZIupB4STquYc1k8r1llmQPxrYcxsgILlLHiz6EOLEXk8iUpeJ1SNCFcPLLQGLN8uvmfbzWuH3ZRdgBDGxAZHRg%253D%253D%7Ccksum%3A114388539377b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/qzkAAOSwkcVewj-b/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From China",
+				"price": "$6.39",
+				"actualPrice": { "value": 2295.01, "dollarPrice": 6, "currency": "$" }
+			},
+			{
+				"id": "708bc46c-8a8e-49b2-b529-f3e1a8fb60be",
+				"websiteName": "kara",
+				"productName": "Infinix s5",
+				"productLink": "https://www.kara.com.ng/infinix-s5",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix-s5-full-featured-image.jpg",
+				"price": "₦71,000.00",
+				"actualPrice": {
+					"value": 71000,
+					"dollarPrice": 185.62,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "35fccb2c-b1f0-41ce-bb66-bbff98daedf6",
+				"websiteName": "ebay",
+				"productName": "voor Infinix Note 8i (2020) Multifunctionele riem Portemonnee Strepen Pouch T...",
+				"productLink": "https://www.ebay.com/itm/voor-Infinix-Note-8i-2020-Multifunctionele-riem-Portemonnee-Strepen-Pouch-T/193753818530?hash=item2d1ca0a5a2:g:ElwAAOSwhZJfsyIM",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/ElwAAOSwhZJfsyIM/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "4cfa80dd-ee61-44ee-8f05-c0e74e6bc773",
+				"websiteName": "ebay",
+				"productName": "Infinix Smart 3 Plus Black,32 GB 2 GB RAM 6.21\" Dual SIM 4G Googleplay Phone",
+				"productLink": "https://www.ebay.com/itm/Infinix-Smart-3-Plus-Black-32-GB-2-GB-RAM-6-21-Dual-SIM-4G-Googleplay-Phone/183788281493?hash=item2acaa29e95:g:4xEAAOSwW9NcwXFi",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/4xEAAOSwW9NcwXFi/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$144.00",
+				"actualPrice": {
+					"value": 55080.27,
+					"dollarPrice": 144,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "a30627fc-b03e-4857-834f-64243f1462a8",
+				"websiteName": "ebay",
+				"productName": "für Infinix Note 8 (2020) Etui Schutzhülle XXM Vielgebrauch Fächer Reißversch...",
+				"productLink": "https://www.ebay.com/itm/fur-Infinix-Note-8-2020-Etui-Schutzhulle-XXM-Vielgebrauch-Facher-Reisversch/184539576019?hash=item2af76a76d3:g:NHAAAOSwtYNfsyKh",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/NHAAAOSwtYNfsyKh/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$21.94 shipping",
+				"from": "From Spain",
+				"price": "$25.18",
+				"actualPrice": { "value": 9562.55, "dollarPrice": 25, "currency": "$" }
+			},
+			{
+				"id": "a14ed43d-9950-45bf-bf8f-18156d145b72",
+				"websiteName": "ebay",
+				"productName": "Poetic For Samsung Galaxy Note 8 Case [Guardian] Shockproof Rugged Cover Pink",
+				"productLink": "https://www.ebay.com/itm/Poetic-For-Samsung-Galaxy-Note-8-Case-Guardian-Shockproof-Rugged-Cover-Pink/222676363990?hash=item33d88baad6:g:n5kAAOSwMT5dSSy-",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/n5kAAOSwMT5dSSy-/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "FAST 'N FREEGuaranteed by Fri, Nov. 27Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$9.95",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "03868b0a-4121-4d77-a74b-bf9ce7e18770",
+				"websiteName": "jumia",
+				"productName": "Infinix INFINIX NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH",
+				"productLink": "https://www.jumia.com.ng//infinix-infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-64693204.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/239646/1.jpg?1257",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 75,000",
+				"actualPrice": {
+					"value": 75000,
+					"dollarPrice": 196.08,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "c8755578-fb88-430a-a35e-7948f41f857f",
+				"websiteName": "ebay",
+				"productName": "Note20 Ultra 8GB+128GB unlocked Android 10 Smartphone 6.5\" FHD+Dual SIM",
+				"productLink": "https://www.ebay.com/itm/Note20-Ultra-8GB-128GB-unlocked-Android-10-Smartphone-6-5-FHD-Dual-SIM/363141875627?_trkparms=ispr%3D1&hash=item548cf147ab:g:C~gAAOSwjGxfloz6&amdata=enc%3AAQAFAAACcBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkBSh1VzQSTzkTiSV5EE%252FHQfKn7s%252Fu3FxSkGtry5BJJbIE8kM09xUdNUACrcoT2UI4PM22XFHt1e6Et44PoCxwReKxcqLgKdkqKjmHu0fE61DSSe0ToYDGH%252FdHGJZE7uqj%252BuTUl331aYInKB%252FfvzEqGTwKbnbTFNp%252Fly7LyetAXW3GSF%252FJLi0DtSITPOb%252FBwgDXEfG64g%252BGGy715%252FRPU6L0DSLjjlxEZ%252BP7tgQ8%252BK7EgZwTHLtzHiuEj2l1GwhIyT7as98wUMUXGmMoUqU8gNEz2X0KFAceRL1%252B4Z3eFnBA0pmWhW%252BPrRoR1YtCEkp0%252FBNv1ko1NN5tQL1Ifj4kfR395%252BNgoWvvShTUb3z43SPtPH3fcjK%252B%252F7fa1biSUzHQ2QrlhS7zC5RuB9SdKvP5A6%252BXXR4letjUSpdamYJqQMc0NwSfit74omNYiwgJDljP1adWajevGj8SI9k9R%252Bph7ZD%252BE5JqwancpbAvWA7abRFh5wFfMHd3DXOYb5%252BAg5DhHoiUQ%252FFdGf9e6u1Bg6fSbXuk6Y%252FI981DYbI9d2CJA0hqyHq0HfxGKe4zDFUCnpbvGBpu7%252BImDqcgwV9i%252FDYCXQWPeiSRurdJf%252BTjrHJIIsWFfjk5No%252Flp10f0Wy70OWdMXdhZdZ%252FpX4OrnjlC4duYImRAYlF8y371HaNe1PT58nfZXdcQf4j0ZLfbhfmpEeMbVEFIiVZcaq7lceYuOYMu7nEIkYA4zrLHbBWcYfqgF0t3MP3tDzlmRRVwOpKTIv%252FqPEahYKBRTvwjZrovnFoVH8gA%253D%253D%7Ccksum%3A363141875627b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/C~gAAOSwjGxfloz6/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From China",
+				"price": "$85.99",
+				"actualPrice": { "value": 32512.66, "dollarPrice": 85, "currency": "$" }
+			},
+			{
+				"id": "7ea8320b-0378-4851-b461-57b976200809",
+				"websiteName": "ebay",
+				"productName": "Poetic For Samsung Galaxy Note 8 Cover [Revolution] Shockproof Rugged Case Black",
+				"productLink": "https://www.ebay.com/itm/Poetic-For-Samsung-Galaxy-Note-8-Cover-Revolution-Shockproof-Rugged-Case-Black/372079149650?hash=item56a1a54252:g:oSkAAOSwgSJdSS0e",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/oSkAAOSwgSJdSS0e/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "FAST 'N FREEGuaranteed by Fri, Nov. 27Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$9.29",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "92214a7b-3eb9-463d-bba6-c3158634a501",
+				"websiteName": "ebay",
+				"productName": "For infinix note 8 (2020) multi-purpose wallet case cover xxm belt bag",
+				"productLink": "https://www.ebay.com/itm/para-Infinix-Note-8-2020-Funda-XXM-Multiusos-Cartera-Cinturon-Bolso/184539566229?hash=item2af76a5095:g:sT4AAOSwxmJfsx7y",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/sT4AAOSwxmJfsx7y/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "7ea48758-da45-46da-a09f-70d183267d35",
+				"websiteName": "ebay",
+				"productName": "Infinix Hot 10 64GB 4GB Quad Camera 6.78\" Dual SIM Googleplay Unlocked Phone",
+				"productLink": "https://www.ebay.com/itm/Infinix-Hot-10-64GB-4GB-Quad-Camera-6-78-Dual-SIM-Googleplay-Unlocked-Phone/174497996178?hash=item28a0e41d92:g:DNMAAOSwcKZfgXe1",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/DNMAAOSwcKZfgXe1/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$175.00",
+				"actualPrice": {
+					"value": 66937.83,
+					"dollarPrice": 175,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "98ea072f-53cb-4239-9243-3d246464d56f",
+				"websiteName": "ebay",
+				"productName": "For Samsung Galaxy Note 8 Case Rugged Cover (Fits Otterbox Defender Belt Clip)",
+				"productLink": "https://www.ebay.com/itm/For-Samsung-Galaxy-Note-8-Case-Rugged-Cover-Fits-Otterbox-Defender-Belt-Clip/192861624464?_trkparms=ispr%3D1&hash=item2ce772d890:g:49oAAOSwjYldlErU&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkfKe2vUidqHRg3XM2X2xOVLP69FK%252B7XkT5qoKjiLOodtKHeq6LbPjqHltwidQimuzRFZ6dH1urXh0XUvVGW20cPoo3xMVSaBqaM6hB8VOZJesUZRy%252BZjed2tmuOESUq7Ni45nBGYVFK72AY3ZZXnqLTs9Ji2k3rH05t26FRmkRVyJcyC3pxyMvt68Q0f70YwJBBx%252B035F6gfsfGgdbSfKcYbf2ADjZ2z3jHdI5lja2DOP%252BtA3xCKMukB8F5ir0J7Bt28KMLIloY%252BySsaVp1NynFOhsdCst%252BKDfdupuYO%252B8TAKEnJ6gELUV9xWfAhzJjM%252BpNnzE8kVqqfqIQUJHpGtkCaN8yw21jrdPuIczHnRwRW31JEbheyQeyLv5mWW4ItIzHje8KCHxuZvTw2xsbBvLla%252FqoWUQpqHkKt4GW%252B1QDLMgoRfusfFnPN%252FkV4EMlmAv2xHIOQe52ccbqLhtjAVallrevOCWPsybRL3dmzcQ3N4ugX29cqpwQJqgQMxdmtVEL4V0vHk1KyNCdf8ceUurxa6T86PrSjDCV5k5j8AngCrBKdNt7tB0JLxzF1uyUqGIomcPk44dZkok4XaNzkKSmf49v1Fh5VrU%252F%252B5kxR37NcfZO%252BY9DMaHWSNJiZeDwEEA58he6poa2O4h7BFiA0P8nOb5DyHQvl3QfEmHST46jx%252Bfm5roEntdi2fHYfLfFQyBwxuf7phICLvqwj5EoYAYqybYb2fBW6EpjCSd4IWDqpFhnDWCazinj96apXY8PiV%7Ccksum%3A192861624464b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/49oAAOSwjYldlErU/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$9.39",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "f424098b-574e-4d24-afb3-aefef8de74f7",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (6GB RAM, 128GB ROM) - 48/2/2/2MP + 8MP Selfie - Dual Sim - 5200mAh - 4G LTE -  Ice Diamond",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-6gb-ram-128gb-rom-48222mp-8mp-selfie-dual-sim-5200mah-4g-lte-ice-diamond-68128905.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/982186/1.jpg?7765",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 98,000",
+				"actualPrice": {
+					"value": 98000,
+					"dollarPrice": 256.21,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "3b514cec-dc0b-4db7-b676-b8b231d3ebca",
+				"websiteName": "kara",
+				"productName": "Infinix Note 4 Pro (X571)",
+				"productLink": "https://www.kara.com.ng/infinix-note-4-pro-x571",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_note_4_pro_x571_.jpg",
+				"price": "₦48,400.00",
+				"actualPrice": {
+					"value": 48400,
+					"dollarPrice": 126.54,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "6b0167b8-dce6-4526-b868-5f7ff1e38cc7",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH-FOREST GREEN",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-forest-green-57824053.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/35/042875/1.jpg?2560",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 65,000",
+				"actualPrice": {
+					"value": 65000,
+					"dollarPrice": 169.93,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "2edbb241-abf5-4747-b7a8-dc0b76197438",
+				"websiteName": "ebay",
+				"productName": "New Listingfür Infinix Note 8 (2020) Etui Schutzhülle Vielgebrauch mit 4 Fächer, Reißver...",
+				"productLink": "https://www.ebay.com/itm/fur-Infinix-Note-8-2020-Etui-Schutzhulle-Vielgebrauch-mit-4-Facher-Reisver/174528605770?hash=item28a2b72e4a:g:HeAAAOSw6bVfuc3U",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/HeAAAOSw6bVfuc3U/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$21.94 shipping",
+				"from": "From Spain",
+				"price": "$29.57",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "5134d874-b05d-453a-aa65-8ddb8733746b",
+				"websiteName": "slot",
+				"productName": "Infinix Note 7 128GB, 6GB",
+				"productLink": "https://slot.ng/product/infinix-note-7-128gb-6gb/",
+				"productImage": "https://slot.ng/wp-content/uploads/2020/06/infinix-note-7-300x300.jpg",
+				"price": "₦89,600.00",
+				"actualPrice": {
+					"value": 89600,
+					"dollarPrice": 234.25,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "7e5f2a95-9842-4935-afda-0ad96e6a28bc",
+				"websiteName": "ebay",
+				"productName": "for Infinix Note 8 (2020) Multi-functional XXM Belt Wallet Stripes Pouch Bag ...",
+				"productLink": "https://www.ebay.com/itm/for-Infinix-Note-8-2020-Multi-functional-XXM-Belt-Wallet-Stripes-Pouch-Bag/174522065767?hash=item28a2536367:g:JCAAAOSwZzNfsyC0",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/JCAAAOSwZzNfsyC0/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "cd4b3e2d-4a5d-4b4d-8d29-8432dbf507d8",
+				"websiteName": "slot",
+				"productName": "Infinix Note 7 64GB, 4GB",
+				"productLink": "https://slot.ng/product/infinix-note-7-64gb-4gb/",
+				"productImage": "https://slot.ng/wp-content/uploads/2020/06/infinix-note-7-300x300.jpg",
+				"price": "₦71,500.00",
+				"actualPrice": {
+					"value": 71500,
+					"dollarPrice": 186.93,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "0f368f1d-e360-475d-868a-fbb506665f47",
+				"websiteName": "ebay",
+				"productName": "Accessories for infinix note 6 (2019): pouch case clip belt bracelet...",
+				"productLink": "https://www.ebay.com/itm/Accesorios-Para-Infinix-Note-6-2019-Funda-Carcasa-Clip-Cinturon-Brazalete/184542262276?hash=item2af7937404:g:eFcAAOSwH9tftbKG",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/eFcAAOSwH9tftbKG/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$8.24 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "b1109659-0bd7-4fdd-9d82-274c07c5f4c7",
+				"websiteName": "ebay",
+				"productName": "pour Infinix Note 8i (2020) Étui Housse XXM Portefeuille Ceinture Multiusages...",
+				"productLink": "https://www.ebay.com/itm/pour-Infinix-Note-8i-2020-Etui-Housse-XXM-Portefeuille-Ceinture-Multiusages/193753817911?hash=item2d1ca0a337:g:lDgAAOSw7HlfsyH2",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/lDgAAOSw7HlfsyH2/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "edb0aa00-df86-473c-8d13-487514055921",
+				"websiteName": "kara",
+				"productName": "Infinix Note 4 X572 - 3GB RAM",
+				"productLink": "https://www.kara.com.ng/infinix-note-4-x572-3gb-ram",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_note_4_x572_-_3gb_ram.jpg",
+				"price": "₦46,200.00",
+				"actualPrice": {
+					"value": 46200,
+					"dollarPrice": 120.78,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "9c51fbb3-e9be-4f3d-a04b-4bd1592da225",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH-VIOLET",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-violet-66464435.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/446466/1.jpg?3128",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 69,900",
+				"actualPrice": {
+					"value": 69900,
+					"dollarPrice": 182.74,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "ab6f2513-da85-4ab5-bcb8-e470892fc96c",
+				"websiteName": "ebay",
+				"productName": "Accessories For Infinix Note 8i (2020): Case Belt Clip Holster Armband Sleeve...",
+				"productLink": "https://www.ebay.com/itm/Accessories-For-Infinix-Note-8i-2020-Case-Belt-Clip-Holster-Armband-Sleeve/174524697797?hash=item28a27b8cc5:g:Z0QAAOSwvrFftbHJ",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/Z0QAAOSwvrFftbHJ/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$8.95 shipping",
+				"from": "From Spain",
+				"price": "$24.95",
+				"actualPrice": { "value": 9180.05, "dollarPrice": 24, "currency": "$" }
+			},
+			{
+				"id": "4adcd6ac-026f-4ca7-8976-a648e5540fd1",
+				"websiteName": "ebay",
+				"productName": "AMZER Carbon Fibre Coral Blue 8 Hard Plastic Cover Slim Printed Snap On Case",
+				"productLink": "https://www.ebay.com/itm/AMZER-Carbon-Fibre-Coral-Blue-8-Hard-Plastic-Cover-Slim-Printed-Snap-On-Case/123089225095?hash=item1ca8b08587:g:JTAAAOSw7aFbA-PL",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/JTAAAOSw7aFbA-PL/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$18.55",
+				"actualPrice": { "value": 6885.03, "dollarPrice": 18, "currency": "$" }
+			},
+			{
+				"id": "235d8522-662e-4b0f-acd1-e5786c626262",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 6(X610B)- 6.01\" FHD+ -64GB ROM + 4GB RAM - 16MP/8MP/2MP + 16MP -4000MAH -4G LTE-ANDROID 9 PIE -BLACK",
+				"productLink": "https://www.jumia.com.ng//infinix-note-6x610b-6.01-fhd-64gb-rom-4gb-ram-16mp8mp2mp-16mp-4000mah-4g-lte-android-9-pie-black-65654358.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/345656/1.jpg?9080",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 85,000",
+				"actualPrice": {
+					"value": 85000,
+					"dollarPrice": 222.22,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "055ba390-51de-4da3-bb76-cc54b0b2216f",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (6GB RAM, 128GB ROM) - 48/2/2/2MP + 8MP Selfie - Dual Sim - 5200mAh - 4G LTE -  Obisidian Black",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-6gb-ram-128gb-rom-48222mp-8mp-selfie-dual-sim-5200mah-4g-lte-obisidian-black-67788037.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/088776/1.jpg?5996",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 100,000",
+				"actualPrice": {
+					"value": 100000,
+					"dollarPrice": 261.44,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "3017cae2-ed18-46f4-83f4-7773de53bad3",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 6 (X610B) 6.01\" AMOLED (4GB RAM, 64GB ROM) Android 9 Pie,(16MP+8MP+2MP) Triple +16MP 4000mAh 4G LTE Smartphone",
+				"productLink": "https://www.jumia.com.ng//note-6-x610b-6.01-amoled-4gb-ram-64gb-rom-android-9-pie16mp8mp2mp-triple-16mp-4000mah-4g-lte-smartphone-infinix-mpg340202.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/68/106704/1.jpg?8655",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 90,000",
+				"actualPrice": {
+					"value": 90000,
+					"dollarPrice": 235.29,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "57837878-8d59-4eb0-8ada-bc51af019ed7",
+				"websiteName": "ebay",
+				"productName": "Screen protector Antishock Anti-scratch Anti-Shatter Infinix Note 8i",
+				"productLink": "https://www.ebay.com/itm/Screen-protector-Antishock-Anti-scratch-Anti-Shatter-Infinix-Note-8i/324382540381?hash=item4b86b4c25d:g:mMgAAOSwqlZfuDyu",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/mMgAAOSwqlZfuDyu/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.95 shipping",
+				"from": "From Spain",
+				"price": "$2.29",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "b9dc5a48-2690-4400-9078-d7cc31da0f13",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 6 (X610B) 6.01\" AMOLED (4GB RAM, 64GB ROM) Android 9 Pie,(16MP+8MP+2MP) Triple +16MP 4000mAh 4G LTE Smartphone",
+				"productLink": "https://www.jumia.com.ng//note-6-x610b-6.01-amoled-4gb-ram-64gb-rom-16mp-triple-camera-4g-4000mah-fingerprint-pen-aqua-blue-infinix-mpg340204.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/343524/1.jpg?9653",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 85,000",
+				"actualPrice": {
+					"value": 85000,
+					"dollarPrice": 222.22,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "6e45a705-589f-431b-ac66-201afdd141b4",
+				"websiteName": "ebay",
+				"productName": "Infinix Note 5 (Black, 64GB) 5.99\" 4GB RAM 12MP Rear Camera Googleplay Store",
+				"productLink": "https://www.ebay.com/itm/Infinix-Note-5-Black-64GB-5-99-4GB-RAM-12MP-Rear-Camera-Googleplay-Store/183499459910?hash=item2ab96b8d46:g:PbEAAOSwroFbg~mu",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/PbEAAOSwroFbg~mu/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$229.00",
+				"actualPrice": {
+					"value": 87592.93,
+					"dollarPrice": 229,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "beb02f43-b498-443c-96c8-3fd242cde10c",
+				"websiteName": "ebay",
+				"productName": "Infinix Hot 8 Cyan 64 GB 4 GB RAM 6.52\" Triple Camera Dual Sim Googleplay Phone",
+				"productLink": "https://www.ebay.com/itm/Infinix-Hot-8-Cyan-64-GB-4-GB-RAM-6-52-Triple-Camera-Dual-Sim-Googleplay-Phone/183941216922?hash=item2ad3c03a9a:g:K2EAAOSwCG5dcLKT",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/K2EAAOSwCG5dcLKT/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$24.00 shipping",
+				"from": "From India",
+				"price": "$189.00",
+				"actualPrice": {
+					"value": 72292.86,
+					"dollarPrice": 189,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "d1d2e266-ae1d-4db2-99dd-e3d5a3505ec9",
+				"websiteName": "ebay",
+				"productName": "NEW Stylus S Pen For Samsung Galaxy Note 8 Note 9 Black Blue Gold Silver Gray",
+				"productLink": "https://www.ebay.com/itm/NEW-Stylus-S-Pen-For-Samsung-Galaxy-Note-8-Note-9-Black-Blue-Gold-Silver-Gray/202758829607?hash=item2f355e3627:g:5tkAAOSwIYtdXNsP",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/5tkAAOSwIYtdXNsP/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$6.88",
+				"actualPrice": { "value": 2295.01, "dollarPrice": 6, "currency": "$" }
+			},
+			{
+				"id": "6fb80fa0-e123-48a1-92a8-119c2e3d19ab",
+				"websiteName": "kara",
+				"productName": "Infinix Hot 9 Pro (64GB/4GB)",
+				"productLink": "https://www.kara.com.ng/infinix-hot-9-pro-64gb-4gb",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix-hot9-play-1_1.jpg",
+				"price": "₦70,000.00",
+				"actualPrice": {
+					"value": 70000,
+					"dollarPrice": 183.01,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "1e71dac7-90ae-4c8c-8c51-2a7f16c01020",
+				"websiteName": "ebay",
+				"productName": "Infinix Note 7 ( 4 GB RAM, 64 GB ) 6.95\" 48+2MP Camera Dual SIM Googleplay Store",
+				"productLink": "https://www.ebay.com/itm/Infinix-Note-7-4-GB-RAM-64-GB-6-95-48-2MP-Camera-Dual-SIM-Googleplay-Store/184458566533?hash=item2af2965b85:g:8L4AAOSwNIhfac4S",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/8L4AAOSwNIhfac4S/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$24.00 shipping",
+				"from": "From India",
+				"price": "$199.00",
+				"actualPrice": {
+					"value": 76117.88,
+					"dollarPrice": 199,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "dd9803e8-0914-460d-9412-facfe24c9780",
+				"websiteName": "kara",
+				"productName": "Infinix X623 - Hot 6X",
+				"productLink": "https://www.kara.com.ng/infinix-x623-hot-6x",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/1/_/1_4.jpg",
+				"price": "₦58,850.00",
+				"actualPrice": {
+					"value": 58850,
+					"dollarPrice": 153.86,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "13b3f54e-781e-41a1-90a7-94e0d928e1a9",
+				"websiteName": "ebay",
+				"productName": "FOR SAMSUNG GALAXY Note 8 Defender case cover (Clip Fits OtterBox)",
+				"productLink": "https://www.ebay.com/itm/FOR-SAMSUNG-GALAXY-Note-8-Defender-case-cover-Clip-Fits-OtterBox/222764635674?_trkparms=ispr%3D1&hash=item33ddce961a:g:2nEAAOSws-hewXHG&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkgCVySCgrNFPU8Iu85TabMIjAumip%252FXyYOW7xqMfpQXSPY89GwVgL6oBu%252FiML8JFlLSrMLsiUcRxJjOAQm%252BjomB3LxJixL1EWY2RUDh2%252FX4C6ss2qfL0unn8lIoLJKaYfMQHTbwYF3TeTVBGeIblhXr3DYmXLaE7lr94CnYtWkSzwR2dHxWgF0bdmcYy%252BBi3mXAqMaYYQ8IRzCwwUzJxct5fME5T1aT38TiP0Rw7VWuenYu6rNv136i3pAMueX1bSJLc%252FMMXr6uVtfLgv%252FhbK7axNCuNVkjYulDBuGI6kTo57ELMW6tITVmOO6jc4H5tnC2VVSL5WbpcH4lS4U%252B4ifHmJ9xeP%252FeXNFpHlaUB9%252FCAP3D5cvaMC8Hb2de4Ribsf8nT9S%252Fjm0c4s7nmS58CbSO%252FKxWS5f6aR9HeMkcYyzVYM9%252B39EHx21hCXXjys%252Bjh30BapQmjh%252Fdi0gzt06%252FAiAQedfMY5i%252B6rOecxnA4JFXdni81jEHpHMSAm6yU6FXtsXlx51otaz5eispW%252FbWU8koVgGFwiiDI95f8Gt2ViDq3CahKYJCAcoJRu8tfGrwalKa%252FTkn6NPDIlvoYsG8t7XxXxho86wmxdAEV3yjRHbGyZV9a%252F7I5rIfZRi3FKTEfAyk75LQ2L7t6g9ufAnFDutOCD14Gn23yOCfXyxjxEBfCgseXOzfHfQEMaKU1odW3%252BjzgwHEbt2z1uQBjpmzwh6BAslY9ydfKwQjdvJvzCnsjAr37hhgN2vHK7%252FYdZEq6d%7Ccksum%3A222764635674b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/2nEAAOSws-hewXHG/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$9.99",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "10e217e3-6428-40c5-8823-b3cac70d8bb7",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7  LITE- 6.6\" 64GB ROM + 4GB RAM - (Front 8MP) (Back48MP/2MP/2MP) -5000MAH -ANDROID 10 - 4G LTE",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-lite-6.6-64gb-rom-4gb-ram-front-8mp-back48mp2mp2mp-5000mah-android-10-4g-lte-62026959.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/962026/1.jpg?7494",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 68,500",
+				"actualPrice": {
+					"value": 68500,
+					"dollarPrice": 179.08,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "4f7c6afa-58b4-490f-88c0-8d16e49ecdc8",
+				"websiteName": "ebay",
+				"productName": "Accessories For Infinix Note 8 (2020): Case Belt Clip Holster Armband Sleeve ...",
+				"productLink": "https://www.ebay.com/itm/Accessories-For-Infinix-Note-8-2020-Case-Belt-Clip-Holster-Armband-Sleeve/193756442652?hash=item2d1cc8b01c:g:8RoAAOSwWgNftbJh",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/8RoAAOSwWgNftbJh/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$8.95 shipping",
+				"from": "From Spain",
+				"price": "$24.95",
+				"actualPrice": { "value": 9180.05, "dollarPrice": 24, "currency": "$" }
+			},
+			{
+				"id": "81a08322-d883-44c3-8cf5-2aab3a202ede",
+				"websiteName": "kara",
+				"productName": "Infinix Hot 5 Lite",
+				"productLink": "https://www.kara.com.ng/infinix-hot-5-lite",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_hot_5_lite.jpg",
+				"price": "₦43,120.00",
+				"actualPrice": {
+					"value": 43120,
+					"dollarPrice": 112.73,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "a4735e94-22e7-456e-8b30-d3bbf2396197",
+				"websiteName": "kara",
+				"productName": "Infinix Hot S3",
+				"productLink": "https://www.kara.com.ng/infinix-hot-s3",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix-hot-s3-xxl-103866.jpg",
+				"price": "₦68,200.00",
+				"actualPrice": { "value": 68200, "dollarPrice": 178.3, "currency": "₦" }
+			},
+			{
+				"id": "baa7b9e1-e66a-46d4-8b65-5cba1dbcfcbd",
+				"websiteName": "ebay",
+				"productName": "Samsung Galaxy Note 8 Note 9 Front Glass Replacement Screen Lens Repair Tool Kit",
+				"productLink": "https://www.ebay.com/itm/Samsung-Galaxy-Note-8-Note-9-Front-Glass-Replacement-Screen-Lens-Repair-Tool-Kit/154031340943?hash=item23dcfbbd8f:g:phcAAOSwpBxfJy8P",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/phcAAOSwpBxfJy8P/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$19.93",
+				"actualPrice": { "value": 7267.54, "dollarPrice": 19, "currency": "$" }
+			},
+			{
+				"id": "0cc1b533-e144-4ccb-97ec-81059501e8fa",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE (X656) 6.6-Inch (64GB, 4GB RAM) - 48MP+2MP+2MP Quad Camera + 8MP Front Camera, 5000mAh Battery, 4G LTE Smartphone - Forest Green",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-lite-x656-6.6-inch-64gb-4gb-ram-48mp2mp2mp-quad-camera-8mp-front-camera-5000mah-battery-4g-lte-smartphone-forest-green-68126655.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/55/662186/1.jpg?5096",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 62,990",
+				"actualPrice": {
+					"value": 62990,
+					"dollarPrice": 164.68,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "9110193d-7d57-4da1-9384-796ccfeb56b3",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 7 Lite 6.6-inch (4GB RAM + 64GB ROM) - 48MP/2MP/2MP +8MP SElfie - Android 10 - 5000mAh - Forest Green",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-lite-6.6-inch-4gb-ram-64gb-rom-48mp2mp2mp-8mp-selfie-android-10-5000mah-forest-green-59538074.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/083595/1.jpg?3970",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 74,999",
+				"actualPrice": {
+					"value": 74999,
+					"dollarPrice": 196.07,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "e05cfbb5-355c-46a4-af06-bab78fd1dc45",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-64516208.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/261546/1.jpg?4718",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 64,750",
+				"actualPrice": {
+					"value": 64750,
+					"dollarPrice": 169.28,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "51095740-e9ff-4c24-acaf-3f93a401c2d9",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (4GB RAM, 128GB ROM) Android 10 (48/2/2/2)MP + 8MP Selfie - 5200mAh - Dual Sim - 4G LTE - Tranquil Blue",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-4gb-ram-128gb-rom-android-10-48222mp-8mp-selfie-5200mah-dual-sim-4g-lte-tranquil-blue-68126656.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/662186/1.jpg?5015",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 93,700",
+				"actualPrice": {
+					"value": 93700,
+					"dollarPrice": 244.97,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "edb47c07-934b-4dc1-90ed-a772e6e1d8e8",
+				"websiteName": "ebay",
+				"productName": " Classic Plaids Metal Corner Square PU Leather Case for Samsung Galaxy S8/9/10 +",
+				"productLink": "https://www.ebay.com/itm/Classic-Plaids-Metal-Corner-Square-PU-Leather-Case-for-Samsung-Galaxy-S8-9-10/402301496318?hash=item5dab09abfe:g:jcMAAOSwmv1e7eJ1",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/jcMAAOSwmv1e7eJ1/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$10.99",
+				"actualPrice": { "value": 3825.02, "dollarPrice": 10, "currency": "$" }
+			},
+			{
+				"id": "9d17ccd5-5d62-4e4a-8421-7fb86fc9744f",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8 - X692 - 6.9\" (6GB, 128GB ROM) Android 10 (64/2/2/2)MP + 16/2MP - Dual Sim - 5200mAh - 4G LTE - Deepsea Luster",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8-x692-6.9-6gb-128gb-rom-android-10-64222mp-162mp-dual-sim-5200mah-4g-lte-deepsea-luster-67911153.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/35/111976/1.jpg?8926",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 123,000",
+				"actualPrice": {
+					"value": 123000,
+					"dollarPrice": 321.57,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "3ee20637-0dd7-4ae8-ba12-5439b345ccc9",
+				"websiteName": "ebay",
+				"productName": "INFINIX NOTE 6 X610B Case cover 15 models silicone TPU gel",
+				"productLink": "https://www.ebay.com/itm/INFINIX-NOTE-6-X610B-Case-cover-15-models-silicone-TPU-gel/324142513169?hash=item4b78663c11:g:CKYAAOSwhzZenve1",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/CKYAAOSwhzZenve1/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From China",
+				"price": "$6.99",
+				"actualPrice": { "value": 2295.01, "dollarPrice": 6, "currency": "$" }
+			},
+			{
+				"id": "3fa6072c-4e1c-422c-a804-c164e247f0d3",
+				"websiteName": "ebay",
+				"productName": "Infinix Hot 10 128GB 6GB Quad Camera 6.78\" Dual SIM Googleplay Unlocked Phone",
+				"productLink": "https://www.ebay.com/itm/Infinix-Hot-10-128GB-6GB-Quad-Camera-6-78-Dual-SIM-Googleplay-Unlocked-Phone/174472878547?hash=item289f64d9d3:g:DNMAAOSwcKZfgXe1",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/DNMAAOSwcKZfgXe1/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$199.00",
+				"actualPrice": {
+					"value": 76117.88,
+					"dollarPrice": 199,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "fb35db6e-dd99-478e-aed8-37460b2fe105",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM, 8MP+(48MP+2MP+2MP AI LENS), 4G LTE, 5000MAH-VIOLET",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mp-ai-lens-4g-lte-5000mah-violet-67618600.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/681676/1.jpg?8586",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 69,500",
+				"actualPrice": { "value": 69500, "dollarPrice": 181.7, "currency": "₦" }
+			},
+			{
+				"id": "65392fbd-3213-4031-92a6-648ec5eb5100",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 6(X610B)- 6.01\" FHD+ -64GB ROM + 4GB RAM - 16MP/8MP/2MP + 16MP -4000MAH -4G LTE-ANDROID 9 PIE -BLACK",
+				"productLink": "https://www.jumia.com.ng//infinix-note-6x610b-6.01-fhd-64gb-rom-4gb-ram-16mp8mp2mp-16mp-4000mah-4g-lte-android-9-pie-black-47512582.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/28/521574/1.jpg?0821",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 85,000",
+				"actualPrice": {
+					"value": 85000,
+					"dollarPrice": 222.22,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "40cf65fe-2519-485e-b8c0-cf461546464b",
+				"websiteName": "ebay",
+				"productName": "Samsung Galaxy Note 8 Verizon",
+				"productLink": "https://www.ebay.com/itm/Samsung-Galaxy-Note-8-Verizon/233783191334?hash=item366e906726:g:B4wAAOSww0tfsf4Z",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/B4wAAOSww0tfsf4Z/s-l225.jpg",
+				"productAvailability": "Pre-Owned",
+				"shipping": "+$5.00 shipping",
+				"from": "Time left21h 39m left",
+				"price": "$97.00",
+				"actualPrice": { "value": 37102.68, "dollarPrice": 97, "currency": "$" }
+			},
+			{
+				"id": "a07b4549-0c07-4264-a968-a12403ad8cb6",
+				"websiteName": "slot",
+				"productName": "Infinix Note 7 LITE 64GB,4GB",
+				"productLink": "https://slot.ng/product/infinix-note-7-lite-64gb4gb/",
+				"productImage": "https://slot.ng/wp-content/uploads/2020/06/Infinix-Note-7-LTE-1-300x300.jpg",
+				"price": "₦64,200.00",
+				"actualPrice": {
+					"value": 64200,
+					"dollarPrice": 167.84,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "bfcc1d30-1451-430f-9e5c-223e13f8d33a",
+				"websiteName": "ebay",
+				"productName": "Infinix Note 5 Stylus (Blue,64GB)4GB RAM 5.93\" 16MP Rear Camera Googleplay Store",
+				"productLink": "https://www.ebay.com/itm/Infinix-Note-5-Stylus-Blue-64GB-4GB-RAM-5-93-16MP-Rear-Camera-Googleplay-Store/183567495651?_trkparms=ispr%3D1&hash=item2abd79b1e3:g:qN8AAOSwlINcBT6V&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickk8Fd9si%252FIbtWQr%252BhnlRwjDRrliMt0%252FLput4cBRuC06%252BunjrVq%252B5xQkwiAjRWG9S9pqAtKXoX%252BHKU1eNZ5DS57HJ%252FvgfuzqossGPfP9OCXhKC8JR2oj9XVWCf5FEndZ5GSYSF1jou8REwQObYS7L%252BTfrF610DgoMCpmAttz%252B9peYPkCzp36A%252F%252F262Nz%252Bd%252FWSZ6xXv5sgREM9CMeuw9YnkQubRyUtPMxQDJJVi3FRItp3k23ZB8p0zp%252FxdZogubA2wivXKfJeBCsm4I%252BhFhfU61KEJmF7%252FQbOK6Ynn21e%252BTROVwvS1%252FgeOY2jBs7Iyi4K55%252FpjD%252FgWN9GhRAXQ%252FnXe%252BD2H0Gdd%252BndiC8Pd5%252Bd8RvbhF7ssU5IFpqR2lkZ%252F4%252B4QKOmQedbFR%252FavAP6cuyCULgtSKVWJ7QcoTP5Ye1xOOpflQDmZ613XQLPemmDp5QKmRdgGF%252F4F5NyFOK8J7ZQZWvfmlTgPW0bVAeBIHLDh0Eizv67mCwFCDWZkeUsQ8MsOuXcoXxQxGUNklF5TONObQIPCAba8ZyfUSFREJAI2M%252BZNnIIyEuS8tWXw9D9KPdT5sIKAZNyeL2Qc5h5r7vcAgKlpxsmtDA8sMpSgWue0s5t6jaTODJi4rxNXbm0EyeJjlGPeb3n6xgFYZ80mJ7zKuPjmAY9bGsZLttRAU52pJHEPPqxr6PC3uQ7roFsY8a%252Fyly%252FauaZbO%252BVLRiuNDrhsk0iOaJPy2nnJFFkCqKUTgbrwCimd5ns5ZhhkVv9oYvan5%7Ccksum%3A183567495651b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/qN8AAOSwlINcBT6V/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$24.00 shipping",
+				"from": "From India",
+				"price": "$209.90",
+				"actualPrice": { "value": 79942.9, "dollarPrice": 209, "currency": "$" }
+			},
+			{
+				"id": "0a9c0836-96a9-400c-a437-d766de29f7a5",
+				"websiteName": "ebay",
+				"productName": "Ultra Thin TPU Clear Pattern Silicone Gel Back Case Cover For Sony ASUS Moto",
+				"productLink": "https://www.ebay.com/itm/Ultra-Thin-TPU-Clear-Pattern-Silicone-Gel-Back-Case-Cover-For-Sony-ASUS-Moto/202098706015?hash=item2f0e05865f:g:eiMAAOSwZlZZ90AX",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/eiMAAOSwZlZZ90AX/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.49 shipping",
+				"from": "From Hong Kong",
+				"price": "$1.59",
+				"actualPrice": { "value": 382.5, "dollarPrice": 1, "currency": "$" }
+			},
+			{
+				"id": "81573f71-f2f7-447c-a810-ef826e208d37",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 8i(X683)-6.78\" HD+ INFINITY-O DISPLAY-128GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-5200MAH-OBSIDIAN BLACK",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8ix683-6.78-hd-infinity-o-display-128gb-rom4gb-ram-8mp48mp2mp2mpai-lens-5200mah-obsidian-black-67963478.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/436976/1.jpg?6495",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 76,500",
+				"actualPrice": { "value": 76500, "dollarPrice": 200, "currency": "₦" }
+			},
+			{
+				"id": "c4a7e0fd-42d7-484f-8a37-c8ca5a533d23",
+				"websiteName": "ebay",
+				"productName": "New Listingfor Infinix Note 8i (2020) Multi-functional Vertical Stripes Pouch 4 Bag Case...",
+				"productLink": "https://www.ebay.com/itm/for-Infinix-Note-8i-2020-Multi-functional-Vertical-Stripes-Pouch-4-Bag-Case/193761009719?hash=item2d1d0e6037:i:193761009719",
+				"productImage": "https://secureir.ebaystatic.com/pictures/aw/pics/stockimage1.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "4f00ea86-3abc-4873-b25d-c0c9a4d646bc",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM, 8MP+(48MP+2MP+2MP AI LENS), 4G LTE, 5000MAH- Space Grey",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mp-ai-lens-4g-lte-5000mah-space-grey-68126801.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/862186/1.jpg?5751",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 63,590",
+				"actualPrice": {
+					"value": 63590,
+					"dollarPrice": 166.25,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "41ecca8f-8aa5-457b-b8a0-02f5b6a02581",
+				"websiteName": "ebay",
+				"productName": "AMZER Carbon Fibre Desert Sand 8 Hard Plastic Cover Slim Printed Snap On Case",
+				"productLink": "https://www.ebay.com/itm/AMZER-Carbon-Fibre-Desert-Sand-8-Hard-Plastic-Cover-Slim-Printed-Snap-On-Case/123089225118?hash=item1ca8b0859e:g:gQIAAOSwHqpbA-PZ",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/gQIAAOSwHqpbA-PZ/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$18.55",
+				"actualPrice": { "value": 6885.03, "dollarPrice": 18, "currency": "$" }
+			},
+			{
+				"id": "46e42d0d-5e25-4069-9c19-0aaf5c84b65f",
+				"websiteName": "ebay",
+				"productName": " Infinix S5 Pro (Forest Green 64 GB 4 GB RAM) with Pop Up Selfie Camera Unlocked",
+				"productLink": "https://www.ebay.com/itm/Infinix-S5-Pro-Forest-Green-64-GB-4-GB-RAM-with-Pop-Up-Selfie-Camera-Unlocked/313222427940?hash=item48ed82f524:g:aG0AAOSwK7ZfWfq~",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/aG0AAOSwK7ZfWfq~/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From India",
+				"price": "$233.00",
+				"actualPrice": {
+					"value": 89122.94,
+					"dollarPrice": 233,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "cfdcdf39-63ea-4701-8f0a-bbc16a2cef8a",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (4GB RAM, 128GB ROM) Android 10 (48/2/2/2)MP + 8MP Selfie - 5200mAh - Dual Sim - 4G LTE - Tranquil Blue",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-4gb-ram-128gb-rom-android-10-48222mp-8mp-selfie-5200mah-dual-sim-4g-lte-tranquil-blue-68128910.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/982186/1.jpg?7765",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 98,000",
+				"actualPrice": {
+					"value": 98000,
+					"dollarPrice": 256.21,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "f6cd9cbb-201c-4805-bc3c-e6254128dc5e",
+				"websiteName": "ebay",
+				"productName": "Luxury Metal Grid Plaid Leather Strap Case Cover For Samsung Note10 S20/10/9/8",
+				"productLink": "https://www.ebay.com/itm/Luxury-Metal-Grid-Plaid-Leather-Strap-Case-Cover-For-Samsung-Note10-S20-10-9-8/193595751566?hash=item2d1334bc8e:g:1UAAAOSwxORd3Stz",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/1UAAAOSwxORd3Stz/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$13.99",
+				"actualPrice": { "value": 4972.52, "dollarPrice": 13, "currency": "$" }
+			},
+			{
+				"id": "04bbc4bd-887a-4daf-b07d-ccfd18bf1800",
+				"websiteName": "kara",
+				"productName": "Infinix Hot 9 (32GB/2GB RAM)",
+				"productLink": "https://www.kara.com.ng/infinix-hot-9-32gb-2gb-ram",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix-hot9-play-1.jpg",
+				"price": "₦66,000.00",
+				"actualPrice": {
+					"value": 66000,
+					"dollarPrice": 172.55,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "2322119e-efe1-43cd-8a1d-e8580d3bd184",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 7 LITE(X656)-6.6\" HD+ PUNCH HOLE-64GB ROM/4GB RAM-8MP+48MP/2MP/2MP/AI LENS-4G LTE-5000MAH Forest Green",
+				"productLink": "https://www.jumia.com.ng//infinix-note-7-litex656-6.6-hd-punch-hole-64gb-rom4gb-ram-8mp48mp2mp2mpai-lens-4g-lte-5000mah-forest-green-62281390.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/318226/1.jpg?5242",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 81,367",
+				"actualPrice": {
+					"value": 81367,
+					"dollarPrice": 212.72,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "18698ded-3f1d-4b51-b9e7-af44cd804f84",
+				"websiteName": "ebay",
+				"productName": "voor Infinix Note 8 (2020) Multifunctionele riem Portemonnee Strepen Pouch Ta...",
+				"productLink": "https://www.ebay.com/itm/voor-Infinix-Note-8-2020-Multifunctionele-riem-Portemonnee-Strepen-Pouch-Ta/184539575211?hash=item2af76a73ab:g:Qh0AAOSw1GBfs-z0",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/Qh0AAOSw1GBfs-z0/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$23.65",
+				"actualPrice": { "value": 8797.54, "dollarPrice": 23, "currency": "$" }
+			},
+			{
+				"id": "5a95d420-d7b8-4d4d-9067-9d98350d1621",
+				"websiteName": "ebay",
+				"productName": "Screen protector Antishock Anti-scratch Anti-Shatter Infinix Note 8",
+				"productLink": "https://www.ebay.com/itm/Screen-protector-Antishock-Anti-scratch-Anti-Shatter-Infinix-Note-8/164526743387?_trkparms=ispr%3D1&hash=item264e8edf5b:g:NVEAAOSwuxJfuDxU&amdata=enc%3AAQAFAAACcBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkfOCvCjTOBWK8pwriaolq5l%252Frmo7Tt5hpY4guts8FaaJQT3kXkP%252Fgptl%252FsbRX1oHfPMTPAWZktUZyff2Ps5kH0P0DcYtS7h25dx%252BoNHOTPaz4r3SZweBtQ6qT23yQbi8nGDofDuOu9snXwh59cFKf%252B4EZYWJslxKg3LUpq6PnSEgGrJ8cY%252BhqSrUBlhvlnYRtMQih7zJEggduUWoQKjVe0h%252B00noWvkI%252FFdHijQf3dIa6gva9LoDGQrz0t7gh3sFYDoA81UOIUa%252BWT56DeQsnO6qTZgD2zheB%252B5J14u4dUaTHV5yT1Z9AapnfLDLcEXIkVYBDVPT9XWsks8mvRREfNqnRQ9lCyH4P0s0ag4UuwGffUeGUUa63zdpXKwPe8q8PI22WJjbea3QE2WNLk3OuQlQmeIWWIqKWujxRayPO331QdNdw4PoVR9KYOT4u8OqFSvr2r0TlnY1zn2%252FdQCPMk3K56Yi7uTNPPbpgtGo85cWTvg2hIlk39Tqk8Ngp%252BacCS%252B%252FmYOjgaUE1w9kP1C94V61rG9sjFxZssp%252B4SYu1eCY1LSEOvg5RI7%252BaAR6AWtW2sUa7sX2DSEgoLksLOwnmD6R7SzykoE7deZF%252FAgk6EGpnef2iP9Cz6q0UsoojewotYP6l5kP6MZHXAnTP9ICp6B27Ub0cQ3e1QggTOJVnZPj4tTjVJ2YN0dT2q1xZUSSET8f%252BBQBmeUiekB9MHE5b0s7A8qKL6JRcmTAZAbXMCeOD23jW%252BcS0Shx8k0vmVkgM91GczT%252FaBUCsd2kpEJhxdQ%253D%253D%7Ccksum%3A164526743387b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/NVEAAOSwuxJfuDxU/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$2.08 shipping",
+				"from": "From Spain",
+				"price": "$2.33",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "c8c65245-61fd-4f49-ad6c-bff8dcbd279a",
+				"websiteName": "ebay",
+				"productName": "OEM For Samsung Galaxy Note 8 Back Glass Cover+Camera Lens Cover+IP68 Tape",
+				"productLink": "https://www.ebay.com/itm/OEM-For-Samsung-Galaxy-Note-8-Back-Glass-Cover-Camera-Lens-Cover-IP68-Tape/254645291078?hash=item3b4a0ac846:g:fioAAOSwalxfAlZ2",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/fioAAOSwalxfAlZ2/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$8.59",
+				"actualPrice": { "value": 3060.02, "dollarPrice": 8, "currency": "$" }
+			},
+			{
+				"id": "53069c94-d65b-4d53-b0d3-67c24266b79d",
+				"websiteName": "ebay",
+				"productName": "For iPhone 12 11 Samsung Note 20 10 J4 Core Leather Wallet Stand Card Case Cover",
+				"productLink": "https://www.ebay.com/itm/For-iPhone-12-11-Samsung-Note-20-10-J4-Core-Leather-Wallet-Stand-Card-Case-Cover/324380704349?hash=item4b8698be5d:g:-LcAAOSwDaVftq6R",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/-LcAAOSwDaVftq6R/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$2.49 shipping",
+				"from": "From China",
+				"price": "$4.79",
+				"actualPrice": { "value": 1530.01, "dollarPrice": 4, "currency": "$" }
+			},
+			{
+				"id": "db095b41-4e31-4199-a050-5bfc72574c4d",
+				"websiteName": "ebay",
+				"productName": "Detachable Zipper Leather Card Wallet Case Cover For Samsung Note10 S10 S9 S8+",
+				"productLink": "https://www.ebay.com/itm/Detachable-Zipper-Leather-Card-Wallet-Case-Cover-For-Samsung-Note10-S10-S9-S8/193703910450?hash=item2d19a71c32:g:rvIAAOSwkt9fgR3Y",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/rvIAAOSwkt9fgR3Y/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$19.73",
+				"actualPrice": { "value": 7267.54, "dollarPrice": 19, "currency": "$" }
+			},
+			{
+				"id": "88a43ab6-4199-4694-b838-4acbd51a6379",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (6GB RAM, 128GB ROM) - 48/2/2/2MP + 8MP Selfie - Dual Sim - 5200mAh - 4G LTE -  Tranquil Blue",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-6gb-ram-128gb-rom-48222mp-8mp-selfie-dual-sim-5200mah-4g-lte-tranquil-blue-68127005.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/072186/1.jpg?5183",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 98,000",
+				"actualPrice": {
+					"value": 98000,
+					"dollarPrice": 256.21,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "b255fc52-a2ff-46ae-bfb5-d991c348fe12",
+				"websiteName": "kara",
+				"productName": "Infinix Hot 8",
+				"productLink": "https://www.kara.com.ng/infinix-hot-8",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_hot_8.jpg",
+				"price": "₦52,250.00",
+				"actualPrice": { "value": 52250, "dollarPrice": 136.6, "currency": "₦" }
+			},
+			{
+				"id": "0f0f2e7f-15aa-4fd5-9fb7-18154cf67327",
+				"websiteName": "ebay",
+				"productName": "Screen Protector Anti Shock Anti-Scratch Clear Infinix Note 8i",
+				"productLink": "https://www.ebay.com/itm/Displayschutzfolie-AntiSchock-Anti-Kratzen-Klar-Infinix-Note-8i/313309363570?_trkparms=ispr%3D1&hash=item48f2b17d72:g:OwcAAOSwCe1fuDzS&amdata=enc%3AAQAFAAACcBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkRjLZq23gAR%252BKma9gM2Z1htVOxJ3YamViVUBZwgHuaMsfbRoSPhNdtlzbkNSNgPEVpTrIb8klrqSPmWYf4CieKMa%252FuEn190u9W8dXkH3ErECRq1ZolHKXUyl022D50T%252FAqLSx6k4cYdyUhXwvUIfcRwh4gMv6Rkiw%252Fr4LZZCnSujAiApJ6xAoaTuLN%252FxEsNqJNwYh6rDA08G%252B5%252BwRdS5NS%252B0sXpmlb2PNH97ZAHI4j2OOlelPNCjI3JWfHCt4ecimmxhRbSrHKEINfpZNStVI8YvTth4sIjvbGuWBa41sFdaPpjhT8V9ytCn1wDjgL2ZdKwNp%252BM1%252FWFKdr2pM5rQNPMGCTmu2uCBSsjXDghr5wNUcTI3Sw2hV1u6dIJhE7T0YtG1fHhqYN2%252Bu17KPxsyeKOlIrvmG5%252F0pm4kiRXSVJVBvXgTdriw3dsek%252BCOhqsANS6%252BYFKrqkt1z2e9QPBf4fBi9mqP0SHDeXL4TXoSqB%252ByQoPhLwYqY4Dj0o%252FRzRTbQxKaUS1y7JjLtKkMqYh8xMNTgfm648%252F93u7GybmzcD1v9PYeqJxVszCQGUZ53EpdlGr4nWPos7pyHHVnvoZe%252B6N9HLuES1L3STnDqNZR5Bk5pXnmqB9eA%252B1HbTGkehKNAYqWVmYG%252Bfw5CeUjwaPmMZriGrPk2Gcg8K%252Bl2SidOaapYUE0IDhQZKT3HKQuL%252FG%252FYUO6%252F5W%252FexN4Q3lYy76b7eS84cwtCvmuVetQnFkPxnGtpCa6VzcLP4%252FWGJmnw0A9P3cDIs%252Bv8aBGT3AXqX%252BNjnA%253D%253D%7Ccksum%3A313309363570b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/OwcAAOSwCe1fuDzS/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.96 shipping",
+				"from": "From Spain",
+				"price": "$2.36",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "d0573151-b3b6-467c-b09e-fbdc3a542ce3",
+				"websiteName": "ebay",
+				"productName": "New ListingFor infinix note 8i (2020) multi-purpose case with 4 compartments for belt",
+				"productLink": "https://www.ebay.com/itm/para-Infinix-Note-8i-2020-Funda-Multiusos-con-4-Compartimentos-para-Cinturon/184546971878?hash=item2af7db50e6:g:4TwAAOSwQOdfuc3C",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/4TwAAOSwQOdfuc3C/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "7a930729-869e-4747-9993-d13fedc01c6e",
+				"websiteName": "ebay",
+				"productName": "New Listingfür Infinix Note 8i (2020) Etui Schutzhülle Vielgebrauch mit 4 Fächer, Reißve...",
+				"productLink": "https://www.ebay.com/itm/fur-Infinix-Note-8i-2020-Etui-Schutzhulle-Vielgebrauch-mit-4-Facher-Reisve/193761010181?hash=item2d1d0e6205:g:XOQAAOSwnstfuc3R",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/XOQAAOSwnstfuc3R/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$21.94 shipping",
+				"from": "From Spain",
+				"price": "$29.57",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "d4609ece-2fee-4213-b34a-c09be734424d",
+				"websiteName": "ebay",
+				"productName": "New Infinix Note 5 (Black, 32GB) 5.99\" 3GB RAM (4G) 12MP Rear Camera Ship Dhl",
+				"productLink": "https://www.ebay.com/itm/New-Infinix-Note-5-Black-32GB-5-99-3GB-RAM-4G-12MP-Rear-Camera-Ship-Dhl/173498378133?_trkparms=ispr%3D1&hash=item28654f2795:g:PbEAAOSwroFbg~mu&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickkSG%252BOFgrj2Yvbvmrj2TAdM35ZnUvW2MDtdNuA%252F3xj%252FyLgPjvO%252Fan5AYjHkYlGAPe02jj6JxwOiTp73CAbznAcxhbkU%252FhK8g6XCtotqpEkiWG%252Fnw2b8%252BPHm%252BlNSzWCnlAgutU8%252BQ8uOFq5%252FNnTY9Af1LqXDCgCBKrnMI2QfEpkKNv70LiZOzt6QDc3TH25X8m1615Ul9ASepVWamPTdHsS6XFj1asS6tP7G6ALsWmiUu5BqwtIXQLqqRyXbR5LvwRQIIoZsRtPy8Ox9DjwfwUfVPl5uoDIKx0brumxSPi%252B3FlBH20Cdkdtxx4k0gM7JSv4rvdeGAq28%252B3raC1kDAqCR9J9rg8BsdlBXQNeMb6fyB5%252BP9XYMcBitK03xZLsHkf98wB5L333VV4T0%252B5HElGH5gaRyAj48foG0eeec%252FMEsdvJSg9J6TbgtCzCi5QN%252F0aYRBI0yN%252BAwmcESytoDcl2Ad%252B6xasfs1ZqD%252FLGADgzgUkRJ771V2zeEHtJyCeUzfEyQvBNul2XKK%252Fa1v67e35J%252BBfqUDV%252FGEOFVe9oB8hUhEHvq7S0DeEBXQqgALc6tWIK1hmc0kNB01I1%252F4W%252FBZdxjiJfvdMOP077xLTk8SREuUGMAAih9uAagFjGpVbyf5lqcu%252B4fIIazkk4QgveR7CzCzGEaKZyAjfVg5R8UQP8jxw9LEK%252B554WCbwPJSA6t6xOPjC0soDk%252FC8dj53dpbPF9FBl8DrHjtRDeVorfnep8L9ipelA40fSXwu05k23x86y%7Ccksum%3A173498378133b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/PbEAAOSwroFbg~mu/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$189.00",
+				"actualPrice": {
+					"value": 72292.86,
+					"dollarPrice": 189,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "f5e91922-9d9f-4e7c-8583-9196c1a3726e",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i 128GB ROM 4GB RAM  6.78'' HD 5200mAh Battery Android10 Ice Diamond",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-128gb-rom-4gb-ram-6.78-hd-5200mah-battery-android10-ice-diamond-67993751.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/739976/1.jpg?6806",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 98,000",
+				"actualPrice": {
+					"value": 98000,
+					"dollarPrice": 256.21,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "a1522b9a-5324-425b-8dc0-651246d3a01b",
+				"websiteName": "kara",
+				"productName": "Infinix Note 7 ",
+				"productLink": "https://www.kara.com.ng/infinix-note-7",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_note_7.jpg",
+				"price": "₦89,000.00",
+				"actualPrice": {
+					"value": 89000,
+					"dollarPrice": 232.68,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "86d023b4-3976-491c-8212-d69b18435686",
+				"websiteName": "ebay",
+				"productName": "Accessories for infinix note 8 (2020): pouch case clip belt bracelet...",
+				"productLink": "https://www.ebay.com/itm/Accesorios-Para-Infinix-Note-8-2020-Funda-Carcasa-Clip-Cinturon-Brazalete/193756442220?hash=item2d1cc8ae6c:g:zJQAAOSwys9fuc3M",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/zJQAAOSwys9fuc3M/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "659ff7f6-eaa7-4f83-8d02-221cad3a04a3",
+				"websiteName": "ebay",
+				"productName": "Ultra Thin Clear Soft Silicone Gel TPU Case Cover Skin For Huawei Samsung Infini",
+				"productLink": "https://www.ebay.com/itm/Ultra-Thin-Clear-Soft-Silicone-Gel-TPU-Case-Cover-Skin-For-Huawei-Samsung-Infini/202067663120?hash=item2f0c2bd910:g:hA4AAOSw8-xZzRd0",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/hA4AAOSw8-xZzRd0/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.49 shipping",
+				"from": "From Hong Kong",
+				"price": "$1.59",
+				"actualPrice": { "value": 382.5, "dollarPrice": 1, "currency": "$" }
+			},
+			{
+				"id": "13025164-9163-448c-b5d1-1e9ee7c77f8f",
+				"websiteName": "ebay",
+				"productName": "Samsung Galaxy Note 8 (Maple Gold)",
+				"productLink": "https://www.ebay.com/itm/Samsung-Galaxy-Note-8-Maple-Gold/154159644055?hash=item23e4a17d97:g:alIAAOSwnwlflTzF",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/alIAAOSwnwlflTzF/s-l225.jpg",
+				"productAvailability": "Pre-Owned",
+				"shipping": "+$8.10 shipping",
+				"from": "",
+				"price": "$250.00",
+				"actualPrice": {
+					"value": 95625.47,
+					"dollarPrice": 250,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "4dcc1cec-49b6-4106-bf2f-938c739bb96a",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8 - X692 - 6.9\" (6GB, 128GB ROM) Android 10 (64/2/2/2)MP + 16/2MP - Dual Sim - 5200mAh - 4G LTE - Silver Diamond",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8-x692-6.9-6gb-128gb-rom-android-10-64222mp-162mp-dual-sim-5200mah-4g-lte-silver-diamond-67781606.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/618776/1.jpg?3153",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 123,000",
+				"actualPrice": {
+					"value": 123000,
+					"dollarPrice": 321.57,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "06979c04-9b52-4c58-b2a2-1d92bd4cfac6",
+				"websiteName": "kara",
+				"productName": "Infinix Note 5",
+				"productLink": "https://www.kara.com.ng/infinix-note-5",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/0/0/0000634_infinix-note-5-black_550.jpeg",
+				"price": "₦60,500.00",
+				"actualPrice": {
+					"value": 60500,
+					"dollarPrice": 158.17,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "aab29666-2cb4-4f62-9afd-6376f528a0f6",
+				"websiteName": "ebay",
+				"productName": "Accessories For Infinix Note 8i (2020): Sock Bag Case Sleeve Belt Clip Holste...",
+				"productLink": "https://www.ebay.com/itm/Accessories-For-Infinix-Note-8i-2020-Sock-Bag-Case-Sleeve-Belt-Clip-Holste/174524696627?hash=item28a27b8833:g:IFkAAOSwH~RftbF2",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/IFkAAOSwH~RftbF2/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$6.85 shipping",
+				"from": "From Spain",
+				"price": "$30.57",
+				"actualPrice": { "value": 11475.06, "dollarPrice": 30, "currency": "$" }
+			},
+			{
+				"id": "b34ab3c0-c7fb-426d-840e-3ee7e400da65",
+				"websiteName": "ebay",
+				"productName": "Tasche für Infinix Hot Note Wasserabweisende Neopren aus Flexiblem Dehnbaren",
+				"productLink": "https://www.ebay.com/itm/Tasche-fur-Infinix-Hot-Note-Wasserabweisende-Neopren-aus-Flexiblem-Dehnbaren/182329237657?hash=item2a73ab6099:g:HGIAAOSw44BYD-wU",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/HGIAAOSw44BYD-wU/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$29.58 shipping",
+				"from": "From Spain",
+				"price": "$17.72",
+				"actualPrice": { "value": 6502.53, "dollarPrice": 17, "currency": "$" }
+			},
+			{
+				"id": "448b1df5-bf48-43a3-894c-984c072ba70d",
+				"websiteName": "ebay",
+				"productName": "New Listingvoor Infinix Note 8i (2020) Multifunctioneel zakje met verticale strepen. 4 z...",
+				"productLink": "https://www.ebay.com/itm/voor-Infinix-Note-8i-2020-Multifunctioneel-zakje-met-verticale-strepen-4-z/174528605697?hash=item28a2b72e01:g:ZqEAAOSw8MRfuc30",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/ZqEAAOSw8MRfuc30/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "3759648c-700f-4a7d-8cf2-20fd3bea7a50",
+				"websiteName": "ebay",
+				"productName": "Samsung Galaxy Note8  64GB",
+				"productLink": "https://www.ebay.com/itm/Samsung-Galaxy-Note8-64GB/402569291377?hash=item5dbaffe671:g:A1wAAOSwTbBft~qV",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/A1wAAOSwTbBft~qV/s-l225.jpg",
+				"productAvailability": "Refurbished",
+				"shipping": "Free shipping",
+				"from": "Time left5d 10h leftFrom China",
+				"price": "$99.90",
+				"actualPrice": { "value": 37867.69, "dollarPrice": 99, "currency": "$" }
+			},
+			{
+				"id": "bec15701-470b-4f9a-a667-5b5c913afc25",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (4GB RAM, 128GB ROM) Android 10 (48/2/2/2)MP + 8MP Selfie - 5200mAh - Dual Sim  - 4G LTE - Tranquil Blue",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-4gb-ram-128gb-rom-android-10-48222mp-8mp-selfie-5200mah-dual-sim-4g-lte-tranquil-blue-67992663.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/36/629976/1.jpg?5489",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 78,000",
+				"actualPrice": {
+					"value": 78000,
+					"dollarPrice": 203.92,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "1a779f68-def9-4825-8ddf-d203ac39528f",
+				"websiteName": "ebay",
+				"productName": "New Infinix Smart 2 (Black, 32GB) 3GB RAM (4G) 5.45\" 13MP Rear Camera SHIP DHL",
+				"productLink": "https://www.ebay.com/itm/New-Infinix-Smart-2-Black-32GB-3GB-RAM-4G-5-45-13MP-Rear-Camera-SHIP-DHL/183360437743?hash=item2ab1223def:g:1coAAOSwkQZbZYsB",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/1coAAOSwkQZbZYsB/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "From India",
+				"price": "$175.00",
+				"actualPrice": {
+					"value": 66937.83,
+					"dollarPrice": 175,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "4e5bab25-4204-4a64-a41e-bec7dc337c55",
+				"websiteName": "kara",
+				"productName": "Infinix Hot 5 ",
+				"productLink": "https://www.kara.com.ng/infinix-hot-5",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/h/o/hot_5_1.jpg",
+				"price": "₦45,320.00",
+				"actualPrice": {
+					"value": 45320,
+					"dollarPrice": 118.48,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "7adf8563-bd70-4c9c-bfc9-cbb5c1691ec6",
+				"websiteName": "ebay",
+				"productName": "Antishock screen protector anti-shock Anti-scratch infinix note 8",
+				"productLink": "https://www.ebay.com/itm/Protector-de-Pantalla-Antishock-Anti-Golpe-Anti-aranazos-Infinix-Note-8/324382539107?hash=item4b86b4bd63:g:8-oAAOSw8DNfuDvQ",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/8-oAAOSw8DNfuDvQ/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$1.78 shipping",
+				"from": "From Spain",
+				"price": "$2.19",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "feed916d-8365-430c-b573-48292350b4f5",
+				"websiteName": "ebay",
+				"productName": "Galaxy Note 8 Case，Poetic Hybrid Armor Shockproof Bumper Protective Cover",
+				"productLink": "https://www.ebay.com/itm/Galaxy-Note-8-Case-Poetic-Hybrid-Armor-Shockproof-Bumper-Protective-Cover/372102828492?_trkparms=ispr%3D1&hash=item56a30e91cc:g:~-UAAOSwgvVdSSy5&amdata=enc%3AAQAFAAACYBaobrjLl8XobRIiIML1V4Imu%252Fn%252BzU5L90Z278x5ickk8ihYa55VeJusc0Ydu6jng%252BpEdyFX1qXkg1MGwfwKXipuvjvHHAp%252FKgs4y7zdO4BmVKKsHHOKq8jMOuz%252F68m4zlilcJvRfW8qtQkNuY7b4%252BXtBxCpCbrBALgJ6zX%252BX6o3kcnLhgODOIi8MFm%252Fe3d8mEZOv677JeExxJkqBVSauEnGL0vP5w02In7WN8DRA5fUzzcHBWj2Betwyn3n1nzVsAIvXqipPgSSgoVCmH%252BfzO%252BON4owcQu7BqlYHL3gaQcwMNd3E1zXSMSBqLqwFC%252F5Pf%252BRI3bxKBxclHQ38FU6vjOoZhGyHeaPt9liDE1ZV3DdjdzG4LSBwBXJhOqaqzo%252Fw8NFbp9FOeL6JJLhWp5J9yE0yZcIO8rdih3v2nIxeXOfUle5O8Bhcvcw%252BCXzR4oD7y9e1qZudyQcJLDAJFaADu1%252FtA4vtv1DkMvacxKXHcjGhL4%252FryTUjPQVradpL1sV7IRqY3vS1FhzsPYOK9O79PWAcwxWBSqjKbjg1VfO%252FLE6JcNDcS%252FLYNb3bvN%252BiCGvZjiklckU54ngT05%252B5wajlzcAxQ%252Bpl13wyzI0%252Fj7gUuLVf%252BT8oBMC7rEYUVv6QHvMz%252FJYflyI4Cf54TksrdfqYcnRFFk%252FqunHTuC%252FDVNXbnLnX4vczCtGPFe4WBdu3G25zdJi4m1pdkzD1BFhQ%252FggKARdClPUdXVtVfAQg1KrMhxfCuLFdMVGFRzKtKhyZIlvJWDsKWaoJ4Oh7RF9CXtYJ4BDTn49jficIhDO8VzWvaPP%7Ccksum%3A372102828492b81ddcd903db4c73bb104fd574deb7d3%7Campid%3APL_CLK%7Cclp%3A2334524",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/~-UAAOSwgvVdSSy5/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "FAST 'N FREEGuaranteed by Fri, Nov. 27Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn MoreTop Rated Plus",
+				"price": "$9.95",
+				"actualPrice": { "value": 3442.52, "dollarPrice": 9, "currency": "$" }
+			},
+			{
+				"id": "d080f410-97f6-4cec-9296-af3b17ed5a2c",
+				"websiteName": "kara",
+				"productName": "Infinix Note 7 - 4GB RAM",
+				"productLink": "https://www.kara.com.ng/infinix-note-8",
+				"productImage": "https://www.kara.com.ng/pub/media/catalog/product/cache/acf1a829635e5a35e3be9ccd68062a20/i/n/infinix_note_7_1.jpg",
+				"price": "₦77,500.00",
+				"actualPrice": {
+					"value": 77500,
+					"dollarPrice": 202.61,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "9dcf491a-fd90-4074-8fbb-28dadb8a9cb5",
+				"websiteName": "ebay",
+				"productName": "New Listingfor Infinix Note 8 (2020) Multi-functional Vertical Stripes Pouch 4 Bag Case ...",
+				"productLink": "https://www.ebay.com/itm/for-Infinix-Note-8-2020-Multi-functional-Vertical-Stripes-Pouch-4-Bag-Case/184546972085?hash=item2af7db51b5:g:5LkAAOSw-rVfuc4v",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/5LkAAOSw-rVfuc4v/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			},
+			{
+				"id": "0cba0c03-3874-4d5e-81aa-179791586709",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (4GB RAM, 128GB ROM) Android 10 (48/2/2/2)MP + 8MP Selfie - 5200mAh - Dual Sim  - 4G LTE - Tranquil Blue",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-4gb-ram-128gb-rom-android-10-48222mp-8mp-selfie-5200mah-dual-sim-4g-lte-tranquil-blue-67940085.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/004976/1.jpg?7606",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 95,000",
+				"actualPrice": {
+					"value": 95000,
+					"dollarPrice": 248.36,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "e31138c9-7513-4bcf-8d4f-6b5cdfb56aa5",
+				"websiteName": "ebay",
+				"productName": "Tempered Glass Screen Protector For Galaxy S8 S9 S10 S20 Note 8 9 10 20 Plus",
+				"productLink": "https://www.ebay.com/itm/Tempered-Glass-Screen-Protector-For-Galaxy-S8-S9-S10-S20-Note-8-9-10-20-Plus/303753252665?hash=item46b91acf39:g:YrcAAOSwaAdfovY4",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/YrcAAOSwaAdfovY4/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "Free shipping",
+				"from": "",
+				"price": "$5.95",
+				"actualPrice": { "value": 1912.51, "dollarPrice": 5, "currency": "$" }
+			},
+			{
+				"id": "c80e7991-a0ec-473e-83bc-5701d14d668c",
+				"websiteName": "jumia",
+				"productName": "Infinix Note 8i - 6.78\" (4GB RAM, 128GB ROM) Android 10 (48/2/2/2)MP + 8MP Selfie - 5200mAh - Dual Sim  -4G LTE- Obisidian Black",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8i-6.78-4gb-ram-128gb-rom-android-10-48222mp-8mp-selfie-5200mah-dual-sim-4g-lte-obisidian-black-67940132.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/104976/1.jpg?7607",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 90,000",
+				"actualPrice": {
+					"value": 90000,
+					"dollarPrice": 235.29,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "cbde4b7a-5cd4-46db-aa04-6b684a3a932e",
+				"websiteName": "ebay",
+				"productName": "Infinix Hot 7 Blue 4GB RAM 64GB 6.19\" 13MP+2MP Dual Sim Googleplay Phone",
+				"productLink": "https://www.ebay.com/itm/Infinix-Hot-7-Blue-4GB-RAM-64GB-6-19-13MP-2MP-Dual-Sim-Googleplay-Phone/183886372516?hash=item2ad07b5ea4:g:7GMAAOSw~NRdLZuM",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/7GMAAOSw~NRdLZuM/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$25.00 shipping",
+				"from": "From India",
+				"price": "$164.00",
+				"actualPrice": {
+					"value": 62730.31,
+					"dollarPrice": 164,
+					"currency": "$"
+				}
+			},
+			{
+				"id": "69679150-85a8-43e7-877f-874ea44a8a1c",
+				"websiteName": "ebay",
+				"productName": "For OnePlus 8 Pro Nokia Infinix ASUS M2 Cartoon Poker Cards Tempered Glass Case",
+				"productLink": "https://www.ebay.com/itm/For-OnePlus-8-Pro-Nokia-Infinix-ASUS-M2-Cartoon-Poker-Cards-Tempered-Glass-Case/283979314971?hash=item421e7c771b:g:hxMAAOSwJGRfNvRO",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/hxMAAOSwJGRfNvRO/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$2.99 shipping",
+				"from": "From China",
+				"price": "$2.56",
+				"actualPrice": { "value": 765, "dollarPrice": 2, "currency": "$" }
+			},
+			{
+				"id": "d32bcd6e-33c9-4fc8-960e-33105202ac98",
+				"websiteName": "jumia",
+				"productName": "Infinix NOTE 8i(X683)-6.78\"HD+ INFINITY-O DISPLAY-64GB ROM/4GB ROM-8MP+48MP/2MP/2MP/AI LENS-5200MAH-OBSIDIAN BLACK",
+				"productLink": "https://www.jumia.com.ng//infinix-note-8ix683-6.78hd-infinity-o-display-64gb-rom4gb-rom-8mp48mp2mp2mpai-lens-5200mah-obsidian-black-67651222.html",
+				"productImage": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/215676/1.jpg?2524",
+				"productStore": "",
+				"productAvailability": "",
+				"officialBadge": "",
+				"price": "₦ 68,500",
+				"actualPrice": {
+					"value": 68500,
+					"dollarPrice": 179.08,
+					"currency": "₦"
+				}
+			},
+			{
+				"id": "eacef592-b6a3-4eaa-bbc8-75ea82325f0a",
+				"websiteName": "ebay",
+				"productName": "New Listingvoor Infinix Note 8 (2020) Multifunctioneel zakje met verticale strepen. 4 za...",
+				"productLink": "https://www.ebay.com/itm/voor-Infinix-Note-8-2020-Multifunctioneel-zakje-met-verticale-strepen-4-za/184546972427?hash=item2af7db530b:g:2UQAAOSwthtfuc3D",
+				"productImage": "https://i.ebayimg.com/thumbs/images/g/2UQAAOSwthtfuc3D/s-l225.jpg",
+				"productAvailability": "Brand New",
+				"shipping": "+$5.87 shipping",
+				"from": "From Spain",
+				"price": "$29.58",
+				"actualPrice": { "value": 11092.55, "dollarPrice": 29, "currency": "$" }
+			}
+		]
+	}
 }

@@ -1,3 +1,6 @@
 declare module '@mui-treasury/components'
 declare module '@mui-treasury/styles'
 declare module 'nprogress'
+declare module '@mui-treasury/styles/grid/gutterBordered'
+declare module '@mui-treasury/styles/button/gradient'
+declare module '@mui-treasury/styles/gutter/pushing'
